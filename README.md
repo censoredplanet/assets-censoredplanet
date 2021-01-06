@@ -1,3 +1,6 @@
+# assets-censoredplanet
+This repo contains frequently updated asset files for censored planet public analysis repo
+
 **blockpage__signature.json**
 
 Signatures must be matched in this order - Commercial products (prod), national firewalls (nat), ISP filters (isp), corporation (corp), unknown (unk), general (gen).
