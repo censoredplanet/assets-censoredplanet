@@ -31,7 +31,7 @@
 {"fingerprint":"a_prod_sucurifw_1","pattern":"Sucuri WebSite Firewall - Access Denied"}
 {"fingerprint":"a_prod_sucurifw_2","pattern":"Sucuri WebSite Firewall"}
 {"fingerprint":"a_prod_senhua","pattern":"/senhuablock.htm\";"}
-{"fingerprint":"a_prod_squid_1","pattern":"(104) Connection reset by peer</I></PRE>"}
+{"fingerprint":"a_prod_squid_1","pattern":"\(104\) Connection reset by peer</I></PRE>"}
 {"fingerprint":"a_prod_allot","pattern":"<IMG src=\"http://www.allot.com/images/allot_logo.gif\">"}
 {"fingerprint":"a_prod_vasexperts","pattern":"http://vasexperts.ru/test/blocked.php"}
 {"fingerprint":"a_prod_netentsec","pattern":"<title>NetentSec Content Filter - Access Denied</title>"}
@@ -87,7 +87,7 @@
 {"fingerprint":"c_isp_lb_general","pattern":"THIS WEBSITE HAS BEEN BLOCKED BASED ON A COURT ORDER FROM THE LEBANESE JUDICIAL SYSTEM."}
 {"fingerprint":"c_isp_ae_etislat","pattern":"http://proxy.etisalat.ae/"}
 {"fingerprint":"c_isp_kg_elcat","pattern":"<p class=\"error\">Access to the requested website has been blocked by judicial decision!</p>"}
-{"fingerprint":"c_isp_in_court_order","pattern":"The access to this site is prohibited as per instructions from Authority(s)/Honorable Court Order"}
+{"fingerprint":"c_isp_in_court_order","pattern":"The access to this site is prohibited as per instructions from Authority\(s\)/Honorable Court Order"}
 {"fingerprint":"c_isp_in_court_order_2","pattern":"Access Denied as per DOT/TRAI Guidelines - By Order </H1>"}
 {"fingerprint":"c_isp_ic_stef","pattern":"október 2015 lagði Sýslumaðurinn í Reykjavík að ósk STEF lögbann við að Hringiðan veiti viðskiptavinum sínum aðgang að þessu vefsvæði."}
 {"fingerprint":"c_isp_ci_mtn","pattern":"http://www.mtn.ci/MTNCI/SiteCollectionImages/global/mtn_logo.png"}
@@ -186,7 +186,7 @@
 {"fingerprint":"c_isp_ru_mgts","pattern":"<div class=\"footer_cell\">&copy; 2019, ПАО МГТС</div>"}
 {"fingerprint":"c_isp_ru_generalbp1","pattern":"Доступ к запрашиваемому ресурсу ограничен.</b></h1>"}
 {"fingerprint":"c_isp_ru_generalbp2","pattern":"<p>Искомый домен внесен в РЕЕСТР доменных имен, указателей страниц сайтов в сети «Интернет» и сетевых адресов, позволяющих идентифицировать сайты в сети «Интернет», содержащие информацию, распространение которой в Российской Федерации запрещено</p>"}
-{"fingerprint":"c_isp_ru_generalbp11","pattern":"<p style=\"text-align: justify; font-size: 14pt;margin-top:15px;text-indent:30px;\"><b>Доступ к данному сайту (странице сайта) ограничен в соответствии с требованиями ФЗ  «Об информации, информационных технологиях и о защите информации» N 149-ФЗ от 27 июля 2006 года в связи с его включением уполномоченным органом (Роскомнадзор) в Единый реестр доменных имен, указателей страниц сайтов в сети \"Интернет\" и сетевых адресов, позволяющих идентифицировать сайты в сети \"Интернет\", содержащие информацию распространение которой в Российской Федерации запрещено, в том числе содержащие информацию, распространяемую с нарушением исключительных прав или содержащие призывы к массовым беспорядкам, осуществлению экстремистской деятельности, участию в массовых (публичных) мероприятиях, проводимых с нарушением установленного порядка.</b></p>"}
+{"fingerprint":"c_isp_ru_generalbp11","pattern":"<p style=\"text-align: justify; font-size: 14pt;margin-top:15px;text-indent:30px;\"><b>Доступ к данному сайту \(странице сайта\) ограничен в соответствии с требованиями ФЗ  «Об информации, информационных технологиях и о защите информации» N 149-ФЗ от 27 июля 2006 года в связи с его включением уполномоченным органом \(Роскомнадзор\) в Единый реестр доменных имен, указателей страниц сайтов в сети \"Интернет\" и сетевых адресов, позволяющих идентифицировать сайты в сети \"Интернет\", содержащие информацию распространение которой в Российской Федерации запрещено, в том числе содержащие информацию, распространяемую с нарушением исключительных прав или содержащие призывы к массовым беспорядкам, осуществлению экстремистской деятельности, участию в массовых \(публичных\) мероприятиях, проводимых с нарушением установленного порядка.</b></p>"}
 {"fingerprint":"c_isp_ru_generalbp3","pattern":"<h1>Уважаемые пользователи! Приносим свои извинения, доступ к информационному ресурсу ограничен на основании Федерального закона от 27 июля 2006 г. № 149-ФЗ «Об информации, информационных технологиях и защите информации»</h1>"}
 {"fingerprint":"c_isp_ru_generalbp4","pattern":"<a href=\"https://ru.wikipedia.org/wiki/Федеральный_закон_№_398-ФЗ_от_28_декабря_2013_года\">398 ФЗ</a>.</p>"}
 {"fingerprint":"c_isp_ru_generalbp5","pattern":"src=\"http://www.ferra.ru/images/416/416695.jpeg\""}
@@ -195,7 +195,7 @@
 {"fingerprint":"c_isp_ru_mark","pattern":"<p>Марк</p>"}
 {"fingerprint":"c_isp_ru_akado","pattern":"<p>ОАО «КОМКОР». Россия, 117535, г. Москва, Варшавское шоссе, д. 133. ИНН 7717020170  ОГРН 1027739387521</p>"}
 {"fingerprint":"c_isp_ru_generalbp8","pattern":"<p>Искомый домен внесен в РЕЕСТР доменных имен, указателей страниц сайтов в сети «Интернет» и сетевых адресов, позволяющих идентифицировать сайты в сети «Интернет», содержащие информацию, распространение которой в Российской Федерации запрещено</p>"}
-{"fingerprint":"c_isp_ru_generalbp9","pattern":"<!-- saved from url=(0020)http://95.167.13.50/ -->"}
+{"fingerprint":"c_isp_ru_generalbp9","pattern":"<!-- saved from url=\(0020\)http://95.167.13.50/ -->"}
 {"fingerprint":"c_isp_ru_a_prod_vasexperts","pattern":"<p>Если Вы считаете, что запрашиваемый Вами материал заблокирован некорректно - обратитесь в службу технической поддержки по электронной почте: <a href=\"mailto:support@vasexperts.ru\">support&#0064;vasexperts.ru</a>.</p>"}
 {"fingerprint":"c_isp_ru_generalbp10","pattern":"</h1><p>Если Вы считаете, что включение ip-адреса нужного Вам интернет-ресурса в \"Единый реестр...\" или \"Реестр доменных имен...\" произошло по ошибке, или оно нарушает Ваши законные права, пожалуйста, обращайтесь непосредственно к уполномоченному органу по координатам на интернет-сайте реестра.</p></div><a href=\"http://blocklist.rkn.gov.ru/\">Перейти на сайт<br />"}
 {"fingerprint":"c_isp_puntonet","pattern":"<title>Aplicación Bloqueada</title>"}
@@ -266,7 +266,7 @@
 {"fingerprint":"d_corp_co_compensar","pattern":"<h1>SITIO WEB RESTRINGIDO</h1>"}
 {"fingerprint":"d_corp_mn_capital_bank","pattern":"<h1>Аппликейшн хаагдсан байна</h1>"}
 {"fingerprint":"d_corp_se_public_health_agency","pattern":"Applikation blockerad"}
-{"fingerprint":"d_corp_at_university_vienna","pattern":"(Malware, Botnet, Phishing etc.)"}
+{"fingerprint":"d_corp_at_university_vienna","pattern":"\(Malware, Botnet, Phishing etc.\)"}
 {"fingerprint":"d_corp_ca_stm","pattern":"Page Web bloq"}
 {"fingerprint":"d_corp_mckesson_using_a_prod_paloalto","pattern":"Warning: Internet site blocked by McKesson"}
 
@@ -343,7 +343,7 @@
 {"fingerprint":"e_unk_cpanel_403_forbidden","pattern":"Access is forbidden to the requested page:"}
 {"fingerprint":"e_unk_competent_authority","pattern":"This site has been blocked as per the instructions of Competent Authority</font> </h2>"}
 {"fingerprint":"e_unk_isp_or_corp_ca_mornington","pattern":"access to it is blocked from the Mornington network"}
-{"fingerprint":"e_unk_style_red","pattern":"<span style=%color:red;%>(æ¡æ"}
+{"fingerprint":"e_unk_style_red","pattern":"<span style=%color:red;%>\(æ¡æ"}
 
 {"fingerprint":"f_gen_web_page_blocked","pattern":"<title>Web Page Blocked!</title>"}
 {"fingerprint":"f_gen_pagina_web_bloqueda_1","pattern":"<title>Página Web Bloqueada!</title>"}

@@ -64,9 +64,9 @@
 {"fingerprint":"x_fpru_not_fount_4","pattern":"<h1>Requested Website Not Found</h1>"}
 {"fingerprint":"x_fpru_weird_2","pattern":"stm-web-01"}
 {"fingerprint":"x_fpru_hvosting","pattern":"<a href=\"http://hvosting.ua/\" target=\"_blank\" class=\"login-copy\">© HvOSTING.UA by Nucleus</a>"}
-{"fingerprint":"x_fpru_404_4","pattern":"location.replace(\"http://e.busca.uol.com.br/404.html\" + param); </script>"}
+{"fingerprint":"x_fpru_404_4","pattern":"location.replace\(\"http://e.busca.uol.com.br/404.html\" + param\); </script>"}
 {"fingerprint":"x_fpru_php","pattern":"Your PHP installation appears to be missing the MySQL extension which is required by WordPress."}
-{"fingerprint":"x_fpru_access","pattern":"<html><body><div align=center><h3>access denied! (ovh-sbg[rbx]_2.1)</h3></div></body></html>"}
+{"fingerprint":"x_fpru_access","pattern":"<html><body><div align=center><h3>access denied! \(ovh-sbg[rbx]_2.1\)</h3></div></body></html>"}
 {"fingerprint":"x_fpru_forpsi","pattern":"href=\"http://www.forpsi.com\" target=\"_parent\">"}
 {"fingerprint":"x_fpru_betting_2","pattern":"<meta name=\"keywords\" content=\"Stake £10 Get £30 Welcome Offer, Betfred offers, Betfred welcome bonus, Betfred new customers\">"}
 {"fingerprint":"x_fpru_402","pattern":"<center><h1>402 Payment Required</h1></center>"}
@@ -82,7 +82,7 @@
 {"fingerprint":"x_generic_404","pattern":"404 Not Found"}
 {"fingerprint":"x_generic_404_2","pattern":" looking for could not be found"}
 {"fingerprint":"x_generic_404_3","pattern":"The URL you requested either moved or no longer exists."}
-{"fingerprint":"x_generic_404_4","pattern":"Error 404 (Not Found)"}
+{"fingerprint":"x_generic_404_4","pattern":"Error 404 \(Not Found\)"}
 {"fingerprint":"x_generic_429","pattern":"429 Too Many Requests"}
 {"fingerprint":"x_generic_502","pattern":"502 Bad Gateway"}
 {"fingerprint":"x_generic_503_1","pattern":"<h1>Service Unavailable</h1>"}
@@ -90,7 +90,7 @@
 {"fingerprint":"x_generic_503_3","pattern":"503 - Service Unavailable"}
 {"fingerprint":"x_generic_503_4","pattern":"503 Service Unavailable"}
 {"fingerprint":"x_generic_sp_403","pattern":"buscando no aparece en nuestro servidor. Esto se puede deber a que"}
-{"fingerprint":"x_generic_bad_req","pattern":"<h1>Bad Request (Invalid Hostname)</h1>"}
+{"fingerprint":"x_generic_bad_req","pattern":"<h1>Bad Request \(Invalid Hostname\)</h1>"}
 {"fingerprint":"x_generic_500","pattern":"500 Internal Server Error"}
 {"fingerprint":"x_generic_construct","pattern":"This site is under development"}
 {"fingerprint":"x_generic_akamai_error","pattern":"An error occurred while processing your request.<p>"}
@@ -130,7 +130,7 @@
 {"fingerprint":"x_fp_irebay","pattern":"https://ir.ebaystatic.com"}
 {"fingerprint":"x_fp_mmnic","pattern":"mmNIC Webmail :: Welcome to mmNIC Webmail"}
 {"fingerprint":"x_fp_costa","pattern":"Costa Rica Servers - Default Page"}
-{"fingerprint":"x_fp_milcom","pattern":"United States Pacific Command (USPACOM)"}
+{"fingerprint":"x_fp_milcom","pattern":"United States Pacific Command \(USPACOM\)"}
 {"fingerprint":"x_fp_kosoleh","pattern":"webmail.konsoleh.co.za"}
 {"fingerprint":"x_fp_holocaust","pattern":"United States Holocaust Memorial Museum"}
 {"fingerprint":"x_fp_serverconfig","pattern":"Кыргыз Республикасынын Улуттук банкы"}
@@ -145,7 +145,7 @@
 {"fingerprint":"x_fp_justhost","pattern":"<title>Justhost.com</title>"}
 {"fingerprint":"x_fp_rfi","pattern":"Radio France Internationale - RFI"}
 {"fingerprint":"x_fp_aud","pattern":"American University in Dubai"}
-{"fingerprint":"x_fp_kissanime","pattern":">This site does not work with CHROME DATA SAVER and \"Mini browsers\" (e.g. UC mini, Opera mini...)"}
+{"fingerprint":"x_fp_kissanime","pattern":">This site does not work with CHROME DATA SAVER and \"Mini browsers\" \(e.g. UC mini, Opera mini...\)"}
 {"fingerprint":"x_fp_chosun","pattern":"1등 인터넷뉴스 조선닷컴"}
 {"fingerprint":"x_fp_ge_gov","pattern":"საქართველოს მთავრობა &ndash; მთავარი"}
 {"fingerprint":"x_fp_jp_squeenix","pattern":"<!-- その他リンク一覧 -->"}
@@ -247,7 +247,7 @@
 {"fingerprint":"r_fp_31","pattern":"<h1>El Universal </>"}
 {"fingerprint":"r_fp_32","pattern":"<h1>505 - HTTP Version Not Supported</h1>"}
 {"fingerprint":"r_fp_33","pattern":"There is no website configured at this address."}
-{"fingerprint":"r_fp_34","pattern":"<address>Apache/2.4.7 (Ubuntu) "}
+{"fingerprint":"r_fp_34","pattern":"<address>Apache/2.4.7 \(Ubuntu\) "}
 {"fingerprint":"r_fp_35","pattern":"We are experiencing technical difficulty."}
 {"fingerprint":"r_fp_36","pattern":"<h1>LangHREF</h1>"}
 {"fingerprint":"r_fp_37","pattern":"token invalid"}
@@ -286,7 +286,7 @@
 {"fingerprint":"x_redirect_just","pattern":"redirect"}
 {"fingerprint":"x_doc_not_found","pattern":"{\"error\":\"Document not found\"}"}
 {"fingerprint":"x_not_authorized_bt","pattern":"Not Authorized to View This Page [CFN #0004]"}
-{"fingerprint":"x_bool_false","pattern":"bool(false)"}
+{"fingerprint":"x_bool_false","pattern":"bool\(false\)"}
 {"fingerprint":"x_object_not_found","pattern":"<html><body>Object not found</body></html>"}
 {"fingerprint":"x_media","pattern":"Unsupported Media Type"}
 {"fingerprint":"x_hello_world","pattern":"Hello %orld"}
@@ -306,7 +306,7 @@
 {"fingerprint":"x_obj_not_found","pattern":"bject not found"}
 {"fingerprint":"x_suspended","pattern":"Your internet is suspended"}
 {"fingerprint":"x_timestamp","pattern":"%<br><br>% +0300%"}
-{"fingerprint":"x_taikoo","pattern":"(taikoo/"}
+{"fingerprint":"x_taikoo","pattern":"\(taikoo/"}
 {"fingerprint":"x_msg_id","pattern":"{\"msg\":%\"id\":"}
 {"fingerprint":"x_reg_redi","pattern":"Regional Redirect"}
 {"fingerprint":"x_error_code","pattern":"error code: "}
@@ -352,7 +352,7 @@
 {"fingerprint":"x_ipcc","pattern":"<title>IPCC — Intergovernmental Panel on Climate Change</title>"}
 {"fingerprint":"x_ugalnet","pattern":"<title>UgalNET Monitor</title>"}
 {"fingerprint":"x_ogp","pattern":"<html prefix="}
-{"fingerprint":"x_function","pattern":"function()"}
+{"fingerprint":"x_function","pattern":"function\(\)"}
 {"fingerprint":"x_bitcoin","pattern":"Sell Bitcoin"}
 {"fingerprint":"x_macarthur","pattern":"<title>MacArthur Foundation</title>"}
 {"fingerprint":"x_icc","pattern":"title>International Communist Current | Workers of the world, unite!</title>"}
