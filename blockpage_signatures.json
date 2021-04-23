@@ -132,7 +132,7 @@
 {"fingerprint":"c_isp_ru_novotelecom_2","pattern":"http://zapret\.2090000\.ru"}
 {"fingerprint":"c_isp_ru_taiget","pattern":"https://hold\.taiget\.ru/block\?"}
 {"fingerprint":"c_isp_ru_divo_2","pattern":"https://www\.divo\.ru/"}
-{"fingerprint":"c_isp_ru_iterika_2","pattern":"http://iterika\.ru/blocked\.html?"}
+{"fingerprint":"c_isp_ru_iterika_2","pattern":"http://iterika\.ru/blocked\.html\?"}
 {"fingerprint":"c_isp_ru_teleseti","pattern":"http://www\.teleseti\.com/"}
 {"fingerprint":"c_isp_ru_convex","pattern":"http://ban\.convex\.ru/index\.html"}
 {"fingerprint":"c_isp_ru_rvso","pattern":"http://billing\.spb\.rsvo\.ru/blocked/blocked\.html"}

@@ -64,7 +64,7 @@
 {"fingerprint":"x_fpru_not_fount_4","pattern":"<h1>Requested Website Not Found</h1>"}
 {"fingerprint":"x_fpru_weird_2","pattern":"stm-web-01"}
 {"fingerprint":"x_fpru_hvosting","pattern":"<a href=\"http://hvosting\.ua/\" target=\"_blank\" class=\"login-copy\">© HvOSTING\.UA by Nucleus</a>"}
-{"fingerprint":"x_fpru_404_4","pattern":"location\.replace(\"http://e\.busca\.uol\.com\.br/404\.html\" \+ param); </script>"}
+{"fingerprint":"x_fpru_404_4","pattern":"location\.replace\(\"http://e\.busca\.uol\.com\.br/404\.html\" \+ param\); </script>"}
 {"fingerprint":"x_fpru_php","pattern":"Your PHP installation appears to be missing the MySQL extension which is required by WordPress\."}
 {"fingerprint":"x_fpru_access","pattern":"<html><body><div align=center><h3>access denied! \(ovh-sbg\[rbx\]_2\.1\)</h3></div></body></html>"}
 {"fingerprint":"x_fpru_forpsi","pattern":"href=\"http://www\.forpsi\.com\" target=\"_parent\">"}
