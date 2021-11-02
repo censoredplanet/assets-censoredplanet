@@ -64,7 +64,7 @@
 {"fingerprint":"a_prod_akamai_etp","pattern":"http://error\\.etp\\.akamai\\.com/error\\.html"}
 {"fingerprint":"a_prod_opendns_1","pattern":"https://block\\.opendns\\.com"}
 {"fingerprint":"a_prod_opendns_2","pattern":"https://malware\\.opendns\\.com"}
-{"fingerprint":"a_prod_huawei_esight","pattern":"The URL or page has been blocked"}
+{"fingerprint":"a_prod_huawei_esight","pattern":"Server: V2R2C00-IAE/1.0"}
 {"fingerprint":"a_prod_kerio_control","pattern":"Это сообщение создано прокси-сервером Kerio Control"}
 
 {"fingerprint":"b_nat_ir_national_1","pattern":"10\\.10\\.34\\.35"}
