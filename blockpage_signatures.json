@@ -65,6 +65,7 @@
 {"fingerprint":"a_prod_opendns_1","pattern":"https://block\\.opendns\\.com"}
 {"fingerprint":"a_prod_opendns_2","pattern":"https://malware\\.opendns\\.com"}
 {"fingerprint":"a_prod_huawei_esight","pattern":"The URL or page has been blocked"}
+{"fingerprint":"a_prod_kerio_control","pattern":"Это сообщение создано прокси-сервером Kerio Control"}
 
 {"fingerprint":"b_nat_ir_national_1","pattern":"10\\.10\\.34\\.35"}
 {"fingerprint":"b_nat_ir_national_2","pattern":"10\\.10\\.34\\.34"}
@@ -83,6 +84,8 @@
 {"fingerprint":"b_nat_columbia_gambling_2","pattern":"www\\.coljuegos\\.gov\\.co/"}
 {"fingerprint":"b_nat_ru","pattern":"http://graph\\.document\\.kremlin\\.ru/page\\.aspx"}
 {"fingerprint":"b_nat_ru_rkn","pattern":"http://blocklist\\.rkn\\.gov\\.ru/"}
+{"fingerprint":"b_nat_th_illegal","pattern":"https://illegal\\.mdes\\.go\\.th"}
+{"fingerprint":"b_nat_no_fd","pattern":"<title>Forsvarsdepartementets retningslinjer - Svartelistet applikasjon</title>"}
 
 {"fingerprint":"c_isp_lb_general","pattern":"THIS WEBSITE HAS BEEN BLOCKED BASED ON A COURT ORDER FROM THE LEBANESE JUDICIAL SYSTEM\\."}
 {"fingerprint":"c_isp_ae_etislat","pattern":"http://proxy\\.etisalat\\.ae/"}
@@ -269,6 +272,11 @@
 {"fingerprint":"d_corp_at_university_vienna","pattern":"\\(Malware, Botnet, Phishing etc\\.\\)"}
 {"fingerprint":"d_corp_ca_stm","pattern":"Page Web bloq"}
 {"fingerprint":"d_corp_mckesson_using_a_prod_paloalto","pattern":"Warning: Internet site blocked by McKesson"}
+{"fingerprint":"d_corp_acledabank","pattern":"Transfer of the file you were trying to download or upload has been <strong>blocked</strong> in accordance with"}
+{"fingerprint":"d_corp_ucloud","pattern":"<p>因该网站存在未备案或已备案未接入或涉及发布违禁信息等情况，违反工信部、公安部相关规定而无法访问。</p >"}
+{"fingerprint":"d_corp_kassanova","pattern":"<strong>Доступ на данный ресурс запрещен согласно внутренней политике Банка"}
+{"fingerprint":"d_corp_aliyun","pattern":"http://batit\\.aliyun\\.com/alww\\.html"}
+{"fingerprint":"d_corp_mcmaster","pattern":"<title>Information Security Notice | McMaster University</title>"}
 
 {"fingerprint":"e_unk_bloquedo","pattern":"bloqueo\\.png\" alt \"Sitio Bloqueado"}
 {"fingerprint":"e_unk_bloquedo_2","pattern":"bloqueo\\.png"}
@@ -344,6 +352,9 @@
 {"fingerprint":"e_unk_competent_authority","pattern":"This site has been blocked as per the instructions of Competent Authority</font> </h2>"}
 {"fingerprint":"e_unk_isp_or_corp_ca_mornington","pattern":"access to it is blocked from the Mornington network"}
 {"fingerprint":"e_unk_style_red","pattern":"<span style=.*color:red;.*>\\(æ¡æ"}
+{"fingerprint":"e_unk_poland","pattern":"<strong>Próbujesz uzyskać dostęp do zabronionej witryny"}
+{"fingerprint":"e_unk_antioquia","pattern":"https://goo.gl/NJYGir"}
+
 
 {"fingerprint":"f_gen_web_page_blocked","pattern":"<title>Web Page Blocked!</title>"}
 {"fingerprint":"f_gen_pagina_web_bloqueda_1","pattern":"<title>Página Web Bloqueada!</title>"}
@@ -437,3 +448,6 @@
 {"fingerprint":"f_gen_sk_court_order","pattern":"Táto stránka je na základe príkazu súdu zablokovaná\\."}
 {"fingerprint":"f_gen_bg_state_commission","pattern":"Повече информация може да получите на сайта на Държавната комисия"}
 {"fingerprint":"f_gen_pl_access_denied","pattern":"Odmowa dostÄpu"}
+{"fingerprint":"f_gen_cn_not_filed","pattern":"<title>网站未备案提示</title>"}
+{"fingerprint":"f_gen_co_restricted","pattern":"<title>SITIO WEB RESTRINGIDO</title>"}
+{"fingerprint":"f_gen_zw_blocked_site","pattern":"<title>Blocked site</title>"}
