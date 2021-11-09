@@ -368,9 +368,7 @@
 {"fingerprint":"x_akamai_errorpage","pattern":"<!-- AKAMAI ERROR PAGE -->"}
 {"fingerprint":"x_azurewebapp","pattern":"<title>Microsoft Azure Web App - Error 404</title>"}
 {"fingerprint":"x_yahooredirect","pattern":"<html><body><h1>Moved</h1><p>Please click here <a href=\"https://us\\.yahoo\\.com\">us\\.yahoo\\.com</a>\\.</p></body></html>"}
-{"fingerprint":"x_fp?","pattern":"����������������"}
 {"fingerprint":"x_unknown_ipaddress","pattern":"http://124.40.225.20/"}
-{"fingerprint":"x_fp?2","pattern":"0"}
 {"fingerprint":"x_dropbox","pattern":"<h1>Error</h1>Something went wrong\\. Don.t worry, your files are still safe and the Dropboxers have been notified\\."} 
 {"fingerprint":"x_tengine","pattern":"<p>The requested resource resides temporarily under a different URI\\.</p>"} 
 {"fingerprint":"x_sstatic","pattern":"<title>about sstatic\\.net</title>"} 
