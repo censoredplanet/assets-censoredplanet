@@ -210,7 +210,6 @@
 {"fingerprint":"p_fp_30","pattern":"very sorry, but the page could not be loaded properly\\. This should be fixed very soon, and we apologize for any inconvenience\\."}
 {"fingerprint":"p_fp_31","pattern":"Anonymous access is forbidden for this operation\\."}
 {"fingerprint":"p_fp_32","pattern":"The specified key does not exist\\."}
-{"fingerprint":"p_fp_33","pattern":"301 Moved Permanently"}
 {"fingerprint":"p_fp_34","pattern":"The specified bucket does not exist\\."}
 {"fingerprint":"p_fp_36","pattern":"The bucket you access does not belong to you\\."}
 {"fingerprint":"p_fp_37","pattern":"The Open Technology Fund supports projects and people that develop open and accessible technologies promoting human rights and open societies, and help advance inclusive and safe access to global communications networks"}
