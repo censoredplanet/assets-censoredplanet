@@ -451,3 +451,131 @@
 {"fingerprint":"f_gen_cn_not_filed","pattern":"<title>网站未备案提示</title>"}
 {"fingerprint":"f_gen_co_restricted","pattern":"<title>SITIO WEB RESTRINGIDO</title>"}
 {"fingerprint":"f_gen_zw_blocked_site","pattern":"<title>Blocked site</title>"}
+{"pattern":"Об информации, информационных технологиях и о защите информации","fingerprint":"satellite_russia_federal1"}
+{"pattern":"<title>WEBSITE BLOCKED</title>","fingerprint":"satellite_watchguard"}
+{"pattern":"ДАННЫЙ РЕСУРС ЗАБЛОКИРОВАН","fingerprint":"satellite_russia_federal2"}
+{"pattern":"<title>Website blocked by Swisscom PWLAN Content Filter</title>","fingerprint":"satellite_swisscom"}
+{"pattern":"blocking-pages - Blocking pages for AdGuard projects","fingerprint":"satellite_adguard"}
+{"pattern":"<title>BLOCK PAGE</title>","fingerprint":"satellite_indonesia1"}
+{"pattern":"<title>Ресурс заблокирован</title>","fingerprint":"satellite_russia3"}
+{"pattern":"Situs Terlarang","fingerprint":"satellite_indonesia2"}
+{"pattern":"Laman yang anda tuju sudah diblokir","fingerprint":"satellite_indonesia3"}
+{"pattern":"disabled because the Federal Court of Australia has determined that the website infringes, or facilitates the infringement of, copyright","fingerprint":"satellite_australia1"}
+{"pattern":"Pēc Latvijas Republikas Izložu un azartspēļu uzraudzības inspekcijas pieprasījuma","fingerprint":"satellite_latvia1"}
+{"pattern":"Αναζήτηση Επιτροπή Εποπτείας και Ελέγχου Παιγνίων","fingerprint":"satellite_greece1"}
+{"pattern":"Доступ к запрашиваемому ресурсу ограничен","fingerprint":"satellite_russia_federal3"}
+{"pattern":"Доступ да запытанага вамі Інтэрнэт-рэсурса заблакаваны дадатковай паслугай вэб-фільтрацыі","fingerprint":"satellite_russia1"}
+{"pattern":"Запрашиваемый ресурс заблокирован","fingerprint":"satellite_russia2"}
+{"pattern":"<h1>Access to this site is restricted.</h1>","fingerprint":"satellite_indonesia4"}
+{"pattern":"Situs yang dituju terindikasi mengandung konten yang tidak diperkenankan pemerintah","fingerprint":"satellite_indonesia5"}
+{"pattern":"www.biznetnetworks.com/safesurf/","fingerprint":"satellite_indonesia6"}
+{"pattern":"Internet Sehat | PT Yetoya Solusi Indonesia","fingerprint":"satellite_indonesia7"}
+{"pattern":"Situs  yang ada hendak buka kemungkinan termasuk dalam situs yang tidak boleh diakses  melalui jaringan ini karena terindikasi mengandung salah satu unsur","fingerprint":"satellite_indonesia8"}
+{"pattern":"trustpositif.kominfo.go.id","fingerprint":"satellite_indonesia9"}
+{"pattern":"<title>Internet Sehat</title>","fingerprint":"satellite_indonesia10"}
+{"pattern":"www.melsa.net.id/main/blocked","fingerprint":"satellite_indonesia11"}
+{"pattern":"Доступ к запрашиваемому вами ресурсу ограничен!","fingerprint":"satellite_russia3"}
+{"pattern":"Internet Sehat dan Aman","fingerprint":"satellite_indonesia12"}
+{"pattern":"PERNYATAAN KEPUTUSAN PARA PEMEGANG SAHAM","fingerprint":"satellite_indonesia13"}
+{"pattern":"situs tidak dapat diakses melalui jaringan ini  ","fingerprint":"satellite_indonesia14"}
+{"pattern":"<title>Site Blocked</title>","fingerprint":"satellite_indonesia_general"}
+{"pattern":"Guardian DNS","fingerprint":"satellite_guardiandns"}
+{"pattern":"Internet positif","fingerprint":"satellite_indonesia_general2"}
+{"pattern":"<title>Forbidden website</title>","fingerprint":"satellite_thai_general"}
+{"pattern":"बन्देज लगाएको सामग्रीहरु","fingerprint":"satellite_thai1"}
+{"pattern":"<title>Penjaga Cumi ITB</title>","fingerprint":"satellite_indonesia15"}
+{"pattern":"SecureDNS has blocked a potential threat or maybe the resource you are looking for does not exist","fingerprint":"satellite_telsy1"}
+{"pattern":"Nepal Telecommunications Authority","fingerprint":"satellite_nepal1"}
+{"pattern":"www.coljuegos.gov.co/publicaciones/advertencia_pampatildeampiexclginas_online_ilegales_pub","fingerprint":"satellite_colombia1"}
+{"pattern":"Zakonom je zabranjeno omogućavanje učestvovanja u igrama na sreću koje priređuju neovlašćena lica preko sredstava elektronske komunikacije","fingerprint":"satellite_serbia1"}
+{"pattern":"Ресурста ақпараттық қауіпсіздікке төнетін қауіп-қатер бар","fingerprint":"satellite_russia4"}
+{"pattern":"The website that you are trying to access is unavailable as it contains prohibited material.","fingerprint":"satellite_singapore1"}
+{"pattern":"In compliance of NTC Memorandum Circular #01-01-2014, guideline for internet service providers in the implementation of Republic Act 9775 (Anti-Child Pornography act of 2009)","fingerprint":"satellite_philippines1"}
+{"pattern":"Доступ к ресурсу ограничен","fingerprint":"satellite_russia5"}
+{"pattern":"U wordt naar deze stoppagina doorverwezen omdat de goksite die u tracht te bezoeken inhoud aanbiedt die illegaal is op basis van de Belgische wetgeving. ","fingerprint":"satellite_belguim1"}
+{"pattern":"sensi del regolamento in materia di tutela del diritto","fingerprint":"satellite_italy1"}
+{"pattern":"The High Court of Singapore has ordered a blocking of access to the online location you are attempting to reach as it violates the Copyright Act.","fingerprint":"satellite_singapore2"}
+{"pattern":"Existen atacantes que han creado este sitio de manera fraudulenta para poder robar tu información personal o confidencial","fingerprint":"satellite_costa_rica1"}
+{"pattern":"<title> KPPRC惡意網站防護系統 - 您疑似欲連線至惡意網站</title>","fingerprint":"satellite_taiwan1"}
+{"pattern":"Търсената от Вас страница е с неразрешено съдържание и достъпът","fingerprint":"satellite_russia6"}
+{"pattern":"accesso al sito richiesto &egrave; interdetto</h2><h2>su disposizione dell","fingerprint":"satellite_italy2"}
+{"pattern":"blockerad efter ett beslut fr&aring;n Patent","fingerprint":"satellite_sweden1"}
+{"pattern":"<title>Website Blocked</title>","fingerprint":"satellite_amazon"}
+{"pattern":"sayılı Telekomünikasyon İletişim Başkanlığı kararıyla erişime engellenmiştir","fingerprint":"satellite_turkey1"}
+{"pattern":"sayılı Bakırköy CBS kararıyla erişime engellenmiştir","fingerprint":"satellite_turkey2"}
+{"pattern":"SULH CM kararıyla erişime engellenmiştir.","fingerprint":"satellite_turkey3"}
+{"pattern":"has been blocked by the decision dated ","fingerprint":"satellite_turkey_general"}
+{"pattern":"<H1>AVVERTENZA - SITO NON RAGGIUNGIBILE</H1>","fingerprint":"satellite_italy3"}
+{"pattern":"SITO OSCURATO PER ORDINE","fingerprint":"satellite_italy4"}
+{"pattern":"SITO INTERNET NON RAGGIUNGIBILE</p>","fingerprint":"satellite_italy5"}
+{"pattern":"451 Unavailable For Legal Reasons","fingerprint":"satellite_general_status_code"}
+{"pattern":"<title>Internet Positif - Positifkan diri kamu</title>","fingerprint":"satellite_indonesia_general3"}
+{"pattern":"<a href=\"http://blocklist.rkn.gov.ru/\">","fingerprint":"satellite_russia_general1"}
+{"pattern":"<title>SITO WEB SOTTOPOSTO A SEQUESTRO</title>","fingerprint":"satellite_italy6"}
+{"pattern":"<title>Guardia di Finanza</title>","fingerprint":"satellite_italy7"}
+{"pattern":"pname=\\'internet-sehat\\';","fingerprint":"satellite_indonesia_short_dynamic1"}
+{"pattern":"<br>support.idola.net.id</center>","fingerprint":"satellite_indonesia_short_dynamic2"}
+{"pattern":"<h4>You have been redirected from a malicious site</h4>","fingerprint":"satellite_microsoft1"}
+{"pattern":"aşağıdaki karara istinaden 5651 sayılı Kanun uyarınca Erişim Sağlayıcıları Birliği tarafından erişime engellenmiştir","fingerprint":"satellite_turky4"}
+{"pattern":"visit offers content that is considered illegal according","fingerprint":"satellite_belgium"}
+{"pattern":"Паважаны абанент!</h4>","fingerprint":"satellite_russia6"}
+{"pattern":"mungkin mengandung unsur ilegal, pornografi, perjudian, kekerasan atau narkoba.</p>","fingerprint":"satellite_indonesia16"}
+{"pattern":"<title>IdOLA Lintasarta</title>","fingerprint":"satellite_indonesia_lintasarta"}
+{"pattern":"<title>Website Blocked</title>","fingerprint":"satellite_general"}
+{"pattern":" sayılı İstanbul Anadolu 14.Sulh CM kararıyla erişime engellenmiştir.</span>","fingerprint":"satellite_turkey4"}
+{"pattern":"<h1>Доступ запрещён</h1>","fingerprint":"satellite_russia7"}
+{"pattern":"<h4>Please use our domain review process if you feel this site is legitimate or should be in another category.</h4>","fingerprint":"satellite_microsoft2"}
+{"pattern":"<title>PT Wortel Internet Positif</title>","fingerprint":"satellite_indonesia17"}
+{"pattern":"<title>Sukma Media Internet Positif</title>","fingerprint":"satellite_indonesia18"}
+{"pattern":"<title>Zyxel Security Cloud-DNS Filter Service Portal</title>","fingerprint":"satellite_zyxel"}
+{"pattern":"<H1>AVVERTENZA - SITO NON RAGGIUNGIBILE</H1>","fingerprint":"satellite_italy8"}
+{"pattern":"<p>L&rsquo;accesso  al presente sito &egrave; stato disabilitato in esecuzione di un provvedimento  adottato dall&rsquo;Autorit&agrave; per le garanzie nelle comunicazioni, ai sensi del  regolamento in materia di tutela del diritto d&rsquo;autore online approvato con  delibera n. 680/13/CONS.</p>","fingerprint":"satellite_italy9"}
+{"pattern":"<title> TANWP不當資訊防護系統 - 您疑似欲連線至不當網站</title>","fingerprint":"satellite_taiwan2"}
+{"pattern":"<title>KIDPROTECT NETWORK</title>","fingerprint":"satellite_kid_protect"}
+{"pattern":"Telsy SecureDNS has blocked a potential threat or maybe the resource you are looking for does not exist.","fingerprint":"satellite_telsy2"}
+{"pattern":"Accesul dumneavoastră către acest site a fost restricționat de Oficiul Național pentru Jocuri de Noroc.</p>","fingerprint":"satellite_romania"}
+{"pattern":"<h2 class=\"h3 the_title\">Du var på vej ind på en ulovlig hjemmeside</h2>","fingerprint":"satellite_denmark1"}
+{"pattern":"<title>TTK :: Доступ к ресурсу ограничен</title>","fingerprint":"satellite_russia8"}
+{"pattern":"<p>You have attempted to obtain access to a particular website.  This page notifies you that access to that website has been disabled because the Federal Court of Australia has determined that the website infringes, or facilitates the infringement of, copyright.</p>","fingerprint":"satellite_australia2"}
+{"pattern":"<div class=\"title\">国家反诈中心</div>","fingerprint":"satellite_china_antispam"}
+{"pattern":"ENG - This gambling site is illegal in Belgium. It has therefore been blocked. Illegal gambling is dangerous and can even be punishable.","fingerprint":"satellite_belgium2"}
+{"pattern":"<head><title>This domain has been blacklisted</title></head>","fingerprint":"satellite_phishing"}
+{"pattern":"<title>Accesul interzis - Ресурс заблокирован</title>","fingerprint":"satellite_russia9"}
+{"pattern":"<title>Страница заблокирована</title>","fingerprint":"satellite_russia10"}
+{"pattern":"<script type=\"text/javascript\" src=\"https://blocked.netalerts.io/index.js\"></script>","fingerprint":"satellite_netalerts"}
+{"pattern":"The website has been blocked at this Public Wi-Fi (PWLAN) location because its content violates the PWLAN content filter rules.</span>","fingerprint":"satellite_pwlan"}
+{"pattern":"<title>Site is blocked</title>","fingerprint":"satellite_russia11"}
+{"pattern":"<title>Blocked by BLUE SHIELD v3</title>","fingerprint":"satellite_blue_shield"}
+{"pattern":"<h1>Доступ запрещён.</h1>","fingerprint":"satellite_russia12"}
+{"pattern":"<title>Page Restricted</title>\r","fingerprint":"satellite_multacom"}
+{"pattern":"<button type=\"submit\">KIRIM EMAIL</button>","fingerprint":"satellite_indonesia19"}
+{"pattern":"<a href=\"http://eais.rkn.gov.ru/\">","fingerprint":"satellite_russia13"}
+{"pattern":"The access to this website has been restricted as per the directive of Nepal","fingerprint":"satellite_nepal2"}
+{"pattern":"<title>Block By NTA</title>","fingerprint":"satellite_nepal3"}
+{"pattern":"Blocked-By: NextDNS'","fingerprint":"satellite_nextdns"}
+{"pattern":"<small>The website/domain has been blocked as per order of Ministry of Electronics and Information Technology under IT Act, 2000</small>","fingerprint":"satellite_india1"}
+{"pattern":"<title>Internet Protect</title>","fingerprint":"satellite_indonesia20"}
+{"pattern":"<title>Blocked Content</title>","fingerprint":"satellite_indonesia21"}
+{"pattern":"<title>StopPage</title>","fingerprint":"satellite_belguim2"}
+{"pattern":"<title>Доступ закрыт</title>","fingerprint":"satellite_russia13"}
+{"pattern":"<title>Technitium DNS Server</title>","fingerprint":"satellite_nepal_technitium"}
+{"pattern":"<title>Website durch Pi-hole blockiert!</title>","fingerprint":"satellite_pihole"}
+{"pattern":"<title>Block-Content</title>","fingerprint":"satellite_nepal4"}
+{"pattern":"This domain is blocked<br>Ce domaine est bloqué","fingerprint":"satellite_canada"}
+{"pattern":"This Page has Been Blocked<BR>","fingerprint":"satellite_indonesia22"}
+{"pattern":"<title>Maaf, Situs ini tidak bisa di akses</title>","fingerprint":"satellite_indonesia23"}
+{"pattern":"<title>OneDNS block system</title>","fingerprint":"satellite_onedns"}
+{"pattern":"<FONT COLOR=\"#AA4444\">Съгласно Закон за Хазарта и разпореждания на Софийски Районен Съд,</FONT>","fingerprint":"satellite_bulgaria1"}
+{"pattern":"<TITLE>BLOCKED</TITLE>","fingerprint":"satellite_general"}
+{"pattern":"<title>Витрина</title>","fingerprint":"satellite_bulgaria2"}
+{"pattern":"<title>Malicious Website blocked</title>","fingerprint":"satellite_general2"}
+{"pattern":"<h2>Website ini memiliki larangan akses</h2>","fingerprint":"satellite_indonesia24"}
+{"pattern":"pursuant to an Order of the High Court of Singapore","fingerprint":"satellite_singapore"}
+{"pattern":"<title>Block !</title>","fingerprint":"satellite_general3"}
+{"pattern":"<title>Resource is blocked</title>","fingerprint":"satellite_general4"}
+{"pattern":"<body id=\"blockpage\">","fingerprint":"satellite_pihole2"}
+{"pattern":"var pname='internet-sehat';","fingerprint":"satellite_indonesia25"}
+{"pattern":"URL=http://sehat.hypernet.co.id\"","fingerprint":"satellite_indonesia26"}
+{"pattern":"<!-- Pi-hole: A black hole for Internet advertisements","fingerprint":"satellite_pihole3"}
+{"pattern":"Mohon maaf untuk saat ini akses internet anda sedang terblokir<br>","fingerprint":"satellite_indonesia27"}
+{"pattern":"<form id=\"block_public\" name=\"block_public\" action=\"/block.php\" method=\"GET\">","fingerprint":"satellite_italy10"}

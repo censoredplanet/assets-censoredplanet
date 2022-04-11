@@ -378,3 +378,43 @@
 {"fingerprint":"x_file_not_found","pattern":"<title>404 - File or directory not found.</title>"}
 {"fingerprint":"x_everbright","pattern":"<title>欢迎光临中国光大银行---网上银行</title>"}
 {"fingerprint":"x_citicbank","pattern":"<title>中信网上银行_理财产品、申请信用卡、个人贷款-中信银行官网</title>"}
+{"pattern":"Unauthorized access, not a valid customer IP</p>","satellite_fingerprint":"satellite_mimecast"}
+{"pattern":"<p>Your client address is unknown.</p>","satellite_fingerprint":"satellite_general1"}
+{"pattern":"Thank you for using nginx","satellite_fingerprint":"satellite_nginx"}
+{"pattern":"Welcome to nginx!","satellite_fingerprint":"satellite_welcome1"}
+{"pattern":"There is no website here!","satellite_fingerprint":"satellite_no_site_found2"}
+{"pattern":"Your client does not have permission to get","satellite_fingerprint":"satellite_general2"}
+{"pattern":"<title>Fireware XTM User Authentication</title>\\","satellite_fingerprint":"satellite_fireware"}
+{"pattern":"<h2>This is the default index page of your website.</h2>","satellite_fingerprint":"satellite_general2"}
+{"pattern":"<title>M R Y T</title>","satellite_fingerprint":"satellite_long_chinese_page_non_censorship"}
+{"pattern":"<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>","satellite_fingerprint":"satellite_website_down1"}
+{"pattern":"<h1><a id=\"title\" href=\"lg.tgg.net.id\">Tele Globe Global LG</a></h1>","satellite_fingerprint":"satellite_tele_global_lg"}
+{"pattern":"<p>You are seeing this page because you have accessed the server directly via it\\'s IP address or used a domain that is not registered on this server (<b>pacy01.pacyworld.com</b>).</p>","satellite_fingerprint":"satellite_direct_ip1"}
+{"pattern":"CONTENT=\"0;URL=/cgi-sys/defaultwebpage.cgi","satellite_fingerprint":"satellite_cgi_default"}
+{"pattern":"访问本页面，您的浏览器需要支持JavaScript","satellite_fingerprint":"satellite_js_support"}
+{"pattern":"<meta name=\"description\" content=\"The owner of this domain has not yet uploaded their website.\" />","satellite_fingerprint":"satellite_general3"}
+{"pattern":"<title>没有找到站点</title>","satellite_fingerprint":"satellite_no_site_found1"}
+{"pattern":"<p>Ensure you have sufficient permissions to access this site.</p>","satellite_fingerprint":"satellite_permission1"}
+{"pattern":"<title>Domain Registered at Safenames</title>","satellite_fingerprint":"satellite_safenames"}
+{"pattern":"<p>Upload your website to get started.</p>","satellite_fingerprint":"satellite_config1"}
+{"pattern":"<body><!-- default --></body>","satellite_fingerprint":"satellite_general4"}
+{"pattern":"<h2>If you are the website administrator:</h2>","satellite_fingerprint":"satellite_config2"}
+{"pattern":"<title>IIS Windows Server</title>","satellite_fingerprint":"satellite_iis_config"}
+{"pattern":"<pre>pageok</pre>","satellite_fingerprint":"satellite_page_ok"}
+{"pattern":"The configuration layout for an Apache2 web server installation on Debian systems is as follows","satellite_fingerprint":"satellite_apache"}
+{"pattern":"<title>Under construction :-)</title>","satellite_fingerprint":"satellite_poland"}
+{"pattern":"<p class=\"t1\">Your request did not find this site in the web server!</p>","satellite_fingerprint":"satellite_no_site_found3"}
+{"pattern":"<p>We will be back shortly.</p>","satellite_fingerprint":"satellite_no_site_found4"}
+{"pattern":"content=\"This web address is available for purchase or lease. ","satellite_fingerprint":"satellite_no_site_found5"}
+{"pattern":"<title>Sitio no disponible en este momento. Intente m&aacute;s tarde.</title>","satellite_fingerprint":"satellite_no_site_found6"}
+{"pattern":"<title>Welcome to CentOS</title>","satellite_fingerprint":"satellite_config3"}
+{"pattern":"<title>Apache2 Ubuntu Default Page: It works</title>","satellite_fingerprint":"satellite_welcome2"}
+{"pattern":"<title>Hello! Welcome to Synology Web Station!</title>","satellite_fingerprint":"satellite_synology"}
+{"pattern":"<h1>Welcome to CentOS</h1>","satellite_fingerprint":"satellite_welcome3"}
+{"pattern":"<title>Test Page for the Nginx HTTP Server on Fedora</title>","satellite_fingerprint":"satellite_test_page"}
+{"pattern":"<p>Die gewünschte Domain ist auf diesem Server nicht konfiguriert und kann deshalb nicht angezeigt werden.</p>","satellite_fingerprint":"satellite_config4"}
+{"pattern":"<p>You've successfully started the Nginx Proxy Manager.</p>","satellite_fingerprint":"satellite_nginx2"}
+{"pattern":"<div class=\"page-info-heading\">Web Server's Default Page</div>","satellite_fingerprint":"satellite_plesk"}
+{"pattern":"<head><title>Electric Embers-hosted Web site</title></head>","satellite_fingerprint":"satellite_elec_embers"}
+{"pattern":"<title>Welcome to nginx on Debian!</title>","satellite_fingerprint":"satellite_nginx4"}
+{"pattern":"<title>Default Site</title>","satellite_fingerprint":"satellite_default"}
