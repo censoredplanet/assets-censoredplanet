@@ -238,7 +238,6 @@
 {"fingerprint":"r_fp_23","pattern":"16/index\\.html"}
 {"fingerprint":"r_fp_24","pattern":"Set-Cookie: fist_user_zz=1"}
 {"fingerprint":"r_fp_25","pattern":"121\\.201\\.80\\.216:9000"}
-{"fingerprint":"r_fp_26","pattern":"Server: nginx/1"}
 {"fingerprint":"r_fp_27","pattern":"Server: Apache-Coyote"}
 {"fingerprint":"r_fp_28","pattern":"Set-Cookie:.*domain=\\."}
 {"fingerprint":"r_fp_29","pattern":"Welcome to SCB log tracker"}
