@@ -489,7 +489,8 @@
 {"fingerprint":"b_nat_it_10_satellite","pattern":"sensi del regolamento in materia di tutela del diritto"}
 {"fingerprint":"b_nat_it_1_satellite","pattern":"<p>L&rsquo;accesso  al presente sito &egrave; stato disabilitato in esecuzione di un provvedimento  adottato dall&rsquo;Autorit&agrave; per le garanzie nelle comunicazioni, ai sensi del  regolamento in materia di tutela del diritto d&rsquo;autore online approvato con  delibera n\\. 680/13/CONS\\.</p>"}
 {"fingerprint":"b_nat_it_redirect_301_1_satellite","pattern":"Location: http://217\\.175\\.53\\.72/index\\.html"}
-{"fingerprint":"b_nat_lt_satellite","pattern":"Location: https://blokuojama\\.lpt\\.lt/"}
+{"fingerprint":"b_nat_lt_1_satellite","pattern":"Location: https://blokuojama\\.lpt\\.lt"}
+{"fingerprint":"b_nat_lt_2_satellite","pattern":"Location: https://stop\\.rtk\\.lt"}
 {"fingerprint":"b_nat_lv_1_satellite","pattern":"Pēc Latvijas Republikas Izložu un azartspēļu uzraudzības inspekcijas pieprasījuma"}
 {"fingerprint":"b_nat_lv_redirect_301_1_satellite","pattern":"Location: http://www\\.iaui\\.gov\\.lv/lv/pazinojums"}
 {"fingerprint":"b_nat_lv_redirect_302_1_satellite","pattern":"<a href=\"http://www\\.iaui\\.gov\\.lv/lv/azartspeles/bloketas-saites\""}
@@ -576,10 +577,12 @@
 
 {"fingerprint":"f_gen_451_status_code_satellite","pattern":"451 Unavailable For Legal Reasons"}
 {"fingerprint":"f_gen_access_denied_satellite","pattern":"<title>Access denied</title>"}
+{"fingerprint":"f_gen_bd_satellite","pattern":"<h1>This webpage has been blocked</h1>"}
 {"fingerprint":"f_gen_be_1_satellite","pattern":"<title>StopPage</title>"}
 {"fingerprint":"f_gen_bg_1_satellite","pattern":"<title>Витрина</title>"}
 {"fingerprint":"f_gen_block_exclamation_satellite","pattern":"<title>Block !</title>"}
-{"fingerprint":"f_gen_blocked_satellite","pattern":"<TITLE>BLOCKED</TITLE>"}
+{"fingerprint":"f_gen_blocked_1_satellite","pattern":"<TITLE>BLOCKED</TITLE>"}
+{"fingerprint":"f_gen_blocked_2_satellite","pattern":"<title>blocked</title>"}
 {"fingerprint":"f_gen_blockpage_2_satellite","pattern":"This Page has Been Blocked<BR>"}
 {"fingerprint":"f_gen_blockpage_satellite","pattern":"<title>BLOCK PAGE</title>"}
 {"fingerprint":"f_gen_ca_1_satellite","pattern":"This domain is blocked<br>Ce domaine est bloqué"}
@@ -635,3 +638,4 @@
 {"fingerprint":"f_gen_th_1_satellite","pattern":"बन्देज लगाएको सामग्रीहरु"}
 {"fingerprint":"f_gen_website_blocked_2_satellite","pattern":"<title>Website Blocked</title>"}
 {"fingerprint":"f_gen_website_blocked_satellite","pattern":"<title>WEBSITE BLOCKED</title>"}
+{"fingerprint":"f_gen_access_denied_satellite","pattern":"<title>ACCESS DENIED</title>*src=\"\\./block\\.png""}
