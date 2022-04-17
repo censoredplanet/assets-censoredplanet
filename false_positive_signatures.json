@@ -6,6 +6,7 @@
 {"fingerprint":"x_fpru_404","pattern":"<hr><p>HTTP Error 404\\. The requested resource is not found\\.</p>"}
 {"fingerprint":"x_fpru_nginx_2","pattern":"<h1>Welcome to <strong>nginx</strong> on Fedora!</h1"}
 {"fingerprint":"x_fpru_domain_register","pattern":"<p>This domain is ready to be registered\\.</p>"}
+{"fingerprint":"x_fpru_empty","pattern":"<html><body></body></html><!-- no domain config -->"}
 {"fingerprint":"x_fpru_domain_register_2","pattern":"<h1>Future home of something quite cool\\.</h1>"}
 {"fingerprint":"x_fpru_cgi_2","pattern":"<html><head><META HTTP-EQUIV=\"refresh\" CONTENT=\"0;URL=/cgi-sys/defaultwebpage\\.cgi\"></head><body></body></html>"}
 {"fingerprint":"x_fpru_apache","pattern":"<html>Apache is functioning normally</html>"}

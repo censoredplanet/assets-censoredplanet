@@ -50,6 +50,9 @@
 {"fingerprint":"a_prod_drweb_3","pattern":"URL .* Sp.*er Gate"}
 {"fingerprint":"a_prod_eset_3","pattern":"Alert! - ESET File Security"}
 {"fingerprint":"a_prod_mcafee_3","pattern":" <title>McAfee Web Gateway - Notification - Blocked by URL filtering</title>"}
+{"fingerprint":"a_prod_barracuda_3","pattern":"Server: Barracuda/NGFirewall"}
+{"fingerprint":"a_prod_NetentSec","pattern":"<title>NetentSec Content Filter - Access Denied</title>"}
+{"fingerprint":"a_prod_totalav_2","pattern":"<title>Total AV Blocked</title>"}
 {"fingerprint":"a_prod_totalav_3","pattern":"otal AV Bloccato"}
 {"fingerprint":"a_prod_totalav_4","pattern":"Total AV Bloqueados"}
 {"fingerprint":"a_prod_btkfilter","pattern":"policyName=BTK_FILTER"}
@@ -194,6 +197,7 @@
 {"fingerprint":"c_isp_ru_generalbp7","pattern":"<p>Доступ к запрашиваемому Вами ресурсу Интернет ограничен в соответствии с требованиями законодательства\\.</p>"}
 {"fingerprint":"c_isp_ru_mark","pattern":"<p>Марк</p>"}
 {"fingerprint":"c_isp_ru_akado","pattern":"<p>ОАО «КОМКОР»\\. Россия, 117535, г\\. Москва, Варшавское шоссе, д\\. 133\\. ИНН 7717020170  ОГРН 1027739387521</p>"}
+{"fingerprint":"c_isp_ru_generalbp8","pattern":"<p>Искомый домен внесен в РЕЕСТР доменных имен, указателей страниц сайтов в сети «Интернет» и сетевых адресов, позволяющих идентифицировать сайты в сети «Интернет», содержащие информацию, распространение которой в Российской Федерации запрещено</p>"}
 {"fingerprint":"c_isp_ru_generalbp9","pattern":"<!-- saved from url=\\(0020\\)http://95\\.167\\.13\\.50/ -->"}
 {"fingerprint":"c_isp_ru_a_prod_vasexperts","pattern":"<p>Если Вы считаете, что запрашиваемый Вами материал заблокирован некорректно - обратитесь в службу технической поддержки по электронной почте: <a href=\"mailto:support@vasexperts\\.ru\">support&#0064;vasexperts\\.ru</a>\\.</p>"}
 {"fingerprint":"c_isp_ru_generalbp10","pattern":"</h1><p>Если Вы считаете, что включение ip-адреса нужного Вам интернет-ресурса в \"Единый реестр\\.\\.\\.\" или \"Реестр доменных имен\\.\\.\\.\" произошло по ошибке, или оно нарушает Ваши законные права, пожалуйста, обращайтесь непосредственно к уполномоченному органу по координатам на интернет-сайте реестра\\.</p></div><a href=\"http://blocklist\\.rkn\\.gov\\.ru/\">Перейти на сайт<br />"}
@@ -314,6 +318,7 @@
 {"fingerprint":"e_unk_pt_blocked","pattern":"<title>Bloqueado por ordem judicial</title>"}
 {"fingerprint":"e_unk_ru_blocked","pattern":"<h1>Данный ресурс заблокирован!</h1>"}
 {"fingerprint":"e_unk_ru_restrict","pattern":"иконуючи вимоги зазначеного Указу проводяться технічні заходи з обмеження надання послуг доступу до зазначених веб-ресурсів, відповідно з нашими технічними можливостями"}
+{"fingerprint":"e_unk_ua_blocked","pattern":"Блокування сайтів Указом Президента України від"}
 {"fingerprint":"e_unk_it_notice","pattern":"<h1>AVVISO</h1>"}
 {"fingerprint":"e_unk_filtered","pattern":"<title>Website Filtered</title>"}
 {"fingerprint":"e_unk_kidprotect","pattern":"<title>KIDPROTECT NETWORK</title>"}
@@ -407,6 +412,7 @@
 {"fingerprint":"f_gen_blocked_10","pattern":"PÃ¡gina web bloqueada"}
 {"fingerprint":"f_gen_blocked_11","pattern":"APLICACION BLOQUEADA"}
 {"fingerprint":"f_gen_blocked_12","pattern":"You don.t have permission to access the URL on this server\\."}
+{"fingerprint":"f_gen_blocked_13","pattern":"<title>Web Page Blocked!</title>"}
 {"fingerprint":"f_gen_blocked_14","pattern":"URLBlocked"}
 {"fingerprint":"f_gen_blocked_15","pattern":"block\\.html"}
 {"fingerprint":"f_gen_blocked_16","pattern":"urlblock"}
@@ -421,6 +427,7 @@
 {"fingerprint":"f_gen_blocked_25","pattern":"Block policy:"}
 {"fingerprint":"f_gen_blocked_26","pattern":"Block reason:"}
 {"fingerprint":"f_gen_blocked_27","pattern":"Access is denied\\."}
+{"fingerprint":"f_gen_blocked_28","pattern":"Web Page Blocked"}
 {"fingerprint":"f_gen_blocked_29","pattern":"Permission denied\\."}
 {"fingerprint":"f_gen_blocked_30","pattern":"Request Denied"}
 {"fingerprint":"f_gen_blocked_31","pattern":"Blocked URL"}
