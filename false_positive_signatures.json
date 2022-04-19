@@ -46,7 +46,6 @@
 {"fingerprint":"x_fpru_500","pattern":"<html><body><h1>500 Server Error</h1>"}
 {"fingerprint":"x_fpru_not_found","pattern":"Not found<img src=\"//traffic-counter\\.tech/api/q\\.php\" style=\"display: none\">"}
 {"fingerprint":"x_fpru_maintanence_2","pattern":"<h1>Сайт не обслуживается</h1"}
-{"fingerprint":"x_fpru_no_domain","pattern":"<html><body></body></html><!-- no domain config -->"}
 {"fingerprint":"x_fpru_works","pattern":"<html><body><h1>It works!</h1></body></html>"}
 {"fingerprint":"x_fpru_nginx_7","pattern":"NGINX default config"}
 {"fingerprint":"x_fpru_serverside","pattern":"<h1>It appears you are accessing our website from a prohibited location\\.</h1>"}
