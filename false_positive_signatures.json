@@ -78,6 +78,7 @@
 {"fingerprint":"x_park_1and1_1","pattern":"1und1parking"}
 {"fingerprint":"x_part_1and1_2","pattern":"<meta http-equiv=\"Refresh\" content=\"0;url=defaultsite\" />"}
 {"fingerprint":"x_generic_400","pattern":"Your browser sent a request that this server could not understand"}
+{"fingerprint":"x_generic_403","pattern":"<H1>Access Denied</H1>.*have permission to access"}
 {"fingerprint":"x_generic_404","pattern":"404 Not Found"}
 {"fingerprint":"x_generic_404_2","pattern":" looking for could not be found"}
 {"fingerprint":"x_generic_404_3","pattern":"The URL you requested either moved or no longer exists\\."}
@@ -214,7 +215,6 @@
 {"fingerprint":"p_fp_37","pattern":"The Open Technology Fund supports projects and people that develop open and accessible technologies promoting human rights and open societies, and help advance inclusive and safe access to global communications networks"}
 {"fingerprint":"p_fp_38","pattern":"<!-- BLOQUES OPCIONES -->"}
 {"fingerprint":"r_fp_1","pattern":"<hr><center>nginx</center>"}
-{"fingerprint":"r_fp_3","pattern":"ikhwanonline"}
 {"fingerprint":"r_fp_4","pattern":"Finance News"}
 {"fingerprint":"r_fp_5","pattern":"<title>Yahoo</title>"}
 {"fingerprint":"r_fp_6","pattern":"<meta name=.*twitter:card"}
@@ -280,7 +280,6 @@
 {"fingerprint":"x_coming_soon","pattern":"Coming soon"}
 {"fingerprint":"x_200_ok","pattern":"<h2> 200 OK - 102 - 40344 </h2>"}
 {"fingerprint":"x_400_bad_request","pattern":"<h1>400 Bad Request</h1>"}
-{"fingerprint":"x_redirect_just","pattern":"redirect"}
 {"fingerprint":"x_doc_not_found","pattern":"{\"error\":\"Document not found\"}"}
 {"fingerprint":"x_not_authorized_bt","pattern":"Not Authorized to View This Page \\[CFN #0004\\]"}
 {"fingerprint":"x_bool_false","pattern":"bool\\(false\\)"}
@@ -336,7 +335,6 @@
 {"fingerprint":"x_test","pattern":"<b>En phase de test</b>"}
 {"fingerprint":"x_scientology","pattern":"Scientologypittsburgh"}
 {"fingerprint":"x_breadcrumbs","pattern":"var breadcrumbs"}
-{"fingerprint":"x_photobucket_2","pattern":"photobucket"}
 {"fingerprint":"x_sec59","pattern":"<p><pre>SEC-59</pre>"}
 {"fingerprint":"x_system_error","pattern":"System Error"}
 {"fingerprint":"x_spotify","pattern":"Connect to Spotify"}
@@ -386,7 +384,6 @@
 {"fingerprint":"satellite_fp_default_site","pattern":"<title>Default Site</title>"}
 {"fingerprint":"satellite_fp_direct_ip1","pattern":"<p>You are seeing this page because you have accessed the server directly via it\\'s IP address or used a domain that is not registered on this server (<b>pacy01\\.pacyworld\\.com</b>)\\.</p>"}
 {"fingerprint":"satellite_fp_elec_embers","pattern":"<head><title>Electric Embers-hosted Web site</title></head>"}
-{"fingerprint":"satellite_fp_fireware","pattern":"<title>Fireware XTM User Authentication</title>\\"}
 {"fingerprint":"satellite_fp_400","pattern":"<!-- @codegen-command : phps GenerateErrorPages -->"}
 {"fingerprint":"satellite_fp_401_unauthorized","pattern":"<title>401 Unauthorized</title>"}
 {"fingerprint":"satellite_fp_403","pattern":"<p>You don\\'t have permission to access"}
@@ -413,6 +410,7 @@
 {"fingerprint":"satellite_fp_no_site_found5","pattern":"content=\"This web address is available for purchase or lease\\. "}
 {"fingerprint":"satellite_fp_no_site_found6","pattern":"<title>Sitio no disponible en este momento\\. Intente m&aacute;s tarde\\.</title>"}
 {"fingerprint":"satellite_fp_no_site_found7","pattern":"Такого домена не существует\\. <br>Может быть, ошибка в адресе? Проверьте еще раз\\."}
+{"fingerprint":"satellite_fp_no_site_found8","pattern":"<title>Site Not Found</title>"}
 {"fingerprint":"satellite_fp_plesk_1","pattern":"<div class=\"page-info-heading\">Web Server's Default Page</div>"}
 {"fingerprint":"satellite_fp_plesk_2","pattern":"<title>Default Parallels Plesk Panel Page</title>"}
 {"fingerprint":"satellite_fp_queernet","pattern":"<TITLE>QueerNet: Home Page</TITLE>"}
@@ -428,7 +426,7 @@
 {"fingerprint":"satellite_fp_long_chinese_page_non_censorship","pattern":"<title>M R Y T</title>"}
 {"fingerprint":"satellite_fp_nginx2","pattern":"<p>You've successfully started the Nginx Proxy Manager\\.</p>"}
 {"fingerprint":"satellite_fp_permission1","pattern":"<p>Ensure you have sufficient permissions to access this site\\.</p>"}
-{"fingerprint":"satellite_fp_poland","pattern":"<title>Under construction :-)</title>"}
+{"fingerprint":"satellite_fp_poland","pattern":"<title>Under construction :-\\)</title>"}
 {"fingerprint":"satellite_fp_safenames","pattern":"<title>Domain Registered at Safenames</title>"}
 {"fingerprint":"satellite_fp_synology","pattern":"<title>Hello! Welcome to Synology Web Station!</title>"}
 {"fingerprint":"satellite_fp_tele_global_lg","pattern":"<h1><a id=\"title\" href=\"lg\\.tgg\\.net\\.id\">Tele Globe Global LG</a></h1>"}
@@ -458,4 +456,6 @@
 {"fingerprint":"satellite_fp_vhost_404","pattern":"<title>404 Vhost unknown\\.</title>"}
 {"fingerprint":"satellite_fp_no_such_app","pattern":"<title>No such app</title>"}
 {"fingerprint":"satellite_fp_dummy_uk","pattern":"Location: http://dummy\\.co\\.uk"}
+{"fingerprint":"satellite_website_not_active","pattern":"<title>Website not active yet</title>"}
+{"fingerprint":"satellite_facebook_error","pattern":"<title>Facebook \\| Error</title>"}
 {"fingerprint":"satellite_fp_nginx_amazon","pattern":"<title>Test Page for the Nginx HTTP Server on the Amazon Linux AMI</title>"}
