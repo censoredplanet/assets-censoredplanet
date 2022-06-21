@@ -10,3 +10,9 @@ All patterns are in PCRE format.
 [**false_positive_signatures.json**](https://assets.censoredplanet.org/false_positive_signatures.json)
 This file contains frequently observed unexpected responses which do not indicate censorship. These patterns should be matched before blockpage patterns. 
 All patterns are in PCRE format.
+
+To test the correctness of the format, run:
+```bash
+python -m unittest pipeline.metadata.test_blockpage
+```
+in the [censoredplanet-analysis](https://github.com/censoredplanet/censoredplanet-analysis/blob/master/docs/development.md) repo.
