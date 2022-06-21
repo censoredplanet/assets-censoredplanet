@@ -234,7 +234,7 @@
 {"fingerprint":"d_corp_ru_it_grad_2","pattern":"http://www\\.it-grad\\.ru/blockpage\\.html"}
 {"fingerprint":"d_corp_ru_govorit","pattern":"http://blockpage\\.govorit\\.ru/"}
 {"fingerprint":"d_corp_ru_pu","pattern":"http://block\\.pu\\.ru/warning-blocked\\.html"}
-{"fingerprint":"d_corp_ru_pstu","pattern":"Location: http://blocked\\.pstu\\.ru"}
+{"fingerprint":"d_corp_ru_pstu","pattern":"http://blocked\\.pstu\\.ru"}
 {"fingerprint":"d_corp_col_uniminuto","pattern":"<p>Lo sentimos, el acceso a este sitio se encuentra restringido debido a que puede incluir contenido no apto\\. Si considera que es un error comuníquese con el Centro de Experiencia Tecnológica 2916520 Ext 6622 o gestione la solicitud por la herramienta <a href=\"http://soporte\\.uniminuto\\.edu/glpi/\">aquí\\.</a></p>"}
 {"fingerprint":"d_corp_cfe_mx","pattern":"<title>PAGINA BLOQUEADA</title>"}
 {"fingerprint":"d_corp_cfe_mx_2","pattern":"BLOQUEADA</h1>"}
@@ -290,7 +290,7 @@
 {"fingerprint":"e_unk_blk_2","pattern":"http://137\\.152\\.92\\.206:6080/"}
 {"fingerprint":"e_unk_blk_3","pattern":"http://176\\.55\\.252\\.4:8080"}
 {"fingerprint":"e_unk_blk_4","pattern":"http://121\\.166\\.148\\.217/warning\\.htm"}
-{"fingerprint":"e_unk_blk_5","pattern":"Location: http://91\\.245\\.35\\.26/"}
+{"fingerprint":"e_unk_blk_5","pattern":"http://91\\.245\\.35\\.26/"}
 {"fingerprint":"e_unk_blk_6","pattern":"http://213\\.14\\.227\\.50/landpage\\?ms=http://ok\\.ru/"}
 {"fingerprint":"e_unk_blk_8","pattern":"您正在访问恶意网页"}
 {"fingerprint":"e_unk_blk_9","pattern":"http://114\\.113\\.224\\.20:8123/feifa/code\\.htm"}
@@ -460,9 +460,10 @@
 {"fingerprint":"a_prod_pihole_1_satellite","pattern":"<!-- Pi-hole: A black hole for Internet advertisements"}
 {"fingerprint":"a_prod_pihole_2_satellite","pattern":"<body id=\"blockpage\">"}
 {"fingerprint":"a_prod_pihole_3_satellite","pattern":"<title>Website durch Pi-hole blockiert!</title>"}
+{"fingerprint":"a_prod_jusprogdns_satellite","pattern":"login\\.jusprogdns\\.com/block"}
 {"fingerprint":"a_prod_safedns_satellite","pattern":"https://blockpage-cdn\\.safedns\\.com"}
 {"fingerprint":"a_prod_securly_satellite", "pattern":"https://www\\.securly\\.com/broker"}
-{"fingerprint":"a_prod_swisscom_satellite","pattern":"<title>Website blocked by Swisscom PWLAN Content Filter</title>"}
+{"fingerprint":"a_prod_swisscom_satellite","pattern":"PWLAN Content Filter"}
 {"fingerprint":"a_prod_tehtris_satellite","pattern":"<title>TEHTRIS DNS Firewall</title>"}
 {"fingerprint":"a_prod_zyxel_satellite","pattern":"<title>Zyxel Security Cloud-DNS Filter Service Portal</title>"}
 
@@ -472,15 +473,15 @@
 {"fingerprint":"b_nat_be_2_satellite","pattern":"U wordt naar deze stoppagina doorverwezen omdat de goksite die u tracht te bezoeken inhoud aanbiedt die illegaal is op basis van de Belgische wetgeving\\. "}
 {"fingerprint":"b_nat_be_3_satellite","pattern":"ENG - This gambling site is illegal in Belgium\\. It has therefore been blocked\\. Illegal gambling is dangerous and can even be punishable\\."}
 {"fingerprint":"b_nat_be_4_satellite","pattern":"visit offers content that is considered illegal according"}
-{"fingerprint":"b_nat_be_redirect_302_satellite","pattern":"Location: https://www\\.gamingcommission\\.gov\\.gr/index\\.php/forbidden-access-black-list"}
-{"fingerprint":"b_nat_be_redirect_satellite","pattern":"Location: http://webstop\\.gamingcommission\\.be"}
+{"fingerprint":"b_nat_be_redirect_302_satellite","pattern":"https://www\\.gamingcommission\\.gov\\.gr/index\\.php/forbidden-access-black-list"}
+{"fingerprint":"b_nat_be_redirect_satellite","pattern":"http://webstop\\.gamingcommission\\.be"}
 {"fingerprint":"b_nat_bg_2_satellite","pattern":"<FONT COLOR=\"#AA4444\">Съгласно Закон за Хазарта и разпореждания на Софийски Районен Съд,</FONT>"}
 {"fingerprint":"b_nat_cn_antispam_satellite","pattern":"<div class=\"title\">国家反诈中心</div>"}
 {"fingerprint":"b_nat_co_1_satellite","pattern":"www\\.coljuegos\\.gov\\.co/publicaciones/advertencia_pampatildeampiexclginas_online_ilegales_pub"}
-{"fingerprint":"b_nat_co_redirect_301_1_satellite","pattern":"Location: https://www\\.coljuegos\\.gov\\.co/publicaciones/advertencia_pampatildeampiexclginas_online_ilegales_pub"}
-{"fingerprint":"b_nat_de_redirect_302_satellite","pattern":"Location: https://www\\.kabelplus\\.at/SpecialPages/Gesperrte-Websites-wegen-Urheberrechtsverletzungen\\.aspx"}
-{"fingerprint":"b_nat_ee_redirecr_301_1_satellite","pattern":"Location: http://www\\.emta\\.ee/et/juurdepaas-blokeeritud/"}
-{"fingerprint":"b_nat_ee_redirecr_302_1_satellite","pattern":"Location: http://redir\\.emta\\.ee/redirect/et/juurdepaas-blokeeritud"}
+{"fingerprint":"b_nat_co_redirect_301_1_satellite","pattern":"https://www\\.coljuegos\\.gov\\.co/publicaciones/advertencia_pampatildeampiexclginas_online_ilegales_pub"}
+{"fingerprint":"b_nat_de_redirect_302_satellite","pattern":"https://www\\.kabelplus\\.at/SpecialPages/Gesperrte-Websites-wegen-Urheberrechtsverletzungen\\.aspx"}
+{"fingerprint":"b_nat_ee_redirecr_301_1_satellite","pattern":"http://www\\.emta\\.ee/et/juurdepaas-blokeeritud/"}
+{"fingerprint":"b_nat_ee_redirecr_302_1_satellite","pattern":"http://redir\\.emta\\.ee/redirect/et/juurdepaas-blokeeritud"}
 {"fingerprint":"b_nat_gr_1_satellite","pattern":"Αναζήτηση Επιτροπή Εποπτείας και Ελέγχου Παιγνίων"}
 {"fingerprint":"b_nat_id_1_satellite","pattern":"<small>The website/domain has been blocked as per order of Ministry of Electronics and Information Technology under IT Act, 2000</small>"}
 {"fingerprint":"b_nat_id_27_satellite","pattern":"Situs yang dituju terindikasi mengandung konten yang tidak diperkenankan pemerintah"}
@@ -489,18 +490,19 @@
 {"fingerprint":"b_nat_id_9_satellite","pattern":"PERNYATAAN KEPUTUSAN PARA PEMEGANG SAHAM"}
 {"fingerprint":"b_nat_it_10_satellite","pattern":"sensi del regolamento in materia di tutela del diritto"}
 {"fingerprint":"b_nat_it_1_satellite","pattern":"<p>L&rsquo;accesso  al presente sito &egrave; stato disabilitato in esecuzione di un provvedimento  adottato dall&rsquo;Autorit&agrave; per le garanzie nelle comunicazioni, ai sensi del  regolamento in materia di tutela del diritto d&rsquo;autore online approvato con  delibera n\\. 680/13/CONS\\.</p>"}
-{"fingerprint":"b_nat_it_redirect_301_1_satellite","pattern":"Location: http://217\\.175\\.53\\.72/index\\.html"}
-{"fingerprint":"b_nat_lt_1_satellite","pattern":"Location: https://blokuojama\\.lpt\\.lt"}
-{"fingerprint":"b_nat_lt_2_satellite","pattern":"Location: https://stop\\.rtk\\.lt"}
+{"fingerprint":"b_nat_it_redirect_301_1_satellite","pattern":"http://217\\.175\\.53\\.72/index\\.html"}
+{"fingerprint":"b_nat_lt_1_satellite","pattern":"https://blokuojama\\.lpt\\.lt"}
+{"fingerprint":"b_nat_lt_2_satellite","pattern":"https://stop\\.rtk\\.lt"}
 {"fingerprint":"b_nat_lv_1_satellite","pattern":"Pēc Latvijas Republikas Izložu un azartspēļu uzraudzības inspekcijas pieprasījuma"}
-{"fingerprint":"b_nat_lv_redirect_301_1_satellite","pattern":"Location: http://www\\.iaui\\.gov\\.lv/lv/pazinojums"}
+{"fingerprint":"b_nat_lv_redirect_301_1_satellite","pattern":"http://www\\.iaui\\.gov\\.lv/lv/pazinojums"}
 {"fingerprint":"b_nat_lv_redirect_302_1_satellite","pattern":"<a href=\"http://www\\.iaui\\.gov\\.lv/lv/azartspeles/bloketas-saites\""}
-{"fingerprint":"b_nat_lv_redirect_302_2_satellite","pattern":"Location: https://www\\.iaui\\.gov\\.lv/lv/pazinojums"}
+{"fingerprint":"b_nat_lv_redirect_302_2_satellite","pattern":"https://www\\.iaui\\.gov\\.lv/lv/pazinojums"}
+{"fingerprint":"b_nat_md","pattern":"blackhole\\.transcor\\.md"}
 {"fingerprint":"b_nat_np_2_satellite","pattern":"<title>Block By NTA</title>"}
 {"fingerprint":"b_nat_np_3_satellite","pattern":"The access to this website has been restricted as per the directive of Nepal"}
 {"fingerprint":"b_nat_np_4_satellite","pattern":"Nepal Telecommunications Authority"}
 {"fingerprint":"b_nat_ph_1_satellite","pattern":"In compliance of NTC Memorandum Circular #01-01-2014, guideline for internet service providers in the implementation of Republic Act 9775 (Anti-Child Pornography act of 2009)"}
-{"fingerprint":"b_nat_pl_redirect_302_satellite","pattern":"Location: https://www\\.finanse\\.mf\\.gov\\.pl/inne-podatki/podatek-od-gier-gry-hazardowe/komunikat"}
+{"fingerprint":"b_nat_pl_redirect_302_satellite","pattern":"https://www\\.finanse\\.mf\\.gov\\.pl/inne-podatki/podatek-od-gier-gry-hazardowe/komunikat"}
 {"fingerprint":"b_nat_ru_12_satellite","pattern":"eais\\.rkn\\.gov\\.ru/\">"}
 {"fingerprint":"b_nat_ru_451_satellite","pattern":"blocklist\\.rkn\\.gov\\.ru"}
 {"fingerprint":"b_nat_ru_satellite_1","pattern":"<a href=\"http://blocklist\\.rkn\\.gov\\.ru/\""}
@@ -515,19 +517,19 @@
 {"fingerprint":"b_nat_tr_4_satellite","pattern":"sayılı Bakırköy CBS kararıyla erişime engellenmiştir"}
 {"fingerprint":"b_nat_tr_5_satellite","pattern":"sayılı Telekomünikasyon İletişim Başkanlığı kararıyla erişime engellenmiştir"}
 {"fingerprint":"b_nat_tr_6_satellite","pattern":"has been blocked by the decision dated "}
-{"fingerprint":"b_nat_uk_redirect_302_satellite","pattern":"Location: http://www\\.ukispcourtorders\\.co\\.uk"}
+{"fingerprint":"b_nat_uk_redirect_302_satellite","pattern":"http://www\\.ukispcourtorders\\.co\\.uk"}
 
-{"fingerprint":"c_isp_be_telenet_302_redirect_satellite","pattern":"Location: http://networkmsg\\.telenet\\.be/blocked/fccu/"}
-{"fingerprint":"c_isp_gr_cuii_copyright_satellite","pattern":"Location: https://notice\\.cuii\\.info"}
+{"fingerprint":"c_isp_be_telenet_302_redirect_satellite","pattern":"http://networkmsg\\.telenet\\.be/blocked/fccu/"}
+{"fingerprint":"c_isp_gr_cuii_copyright_satellite","pattern":"https://notice\\.cuii\\.info"}
 {"fingerprint":"c_isp_id_hypernet_redirect_301_1_satellite","pattern":"<a href=\"https://sehat\\.hypernet\\.co\\.id/\""}
 {"fingerprint":"c_isp_id_idola_net_satellite","pattern":"<br>support\\.idola\\.net\\.id</center>"}
-{"fingerprint":"c_isp_id_iforte_redirect_301_2_satellite","pattern":"Location: https://trustpositif\\.iforte\\.net\\.id"}
-{"fingerprint":"c_isp_id_myrepublic_redirect_301_3_satellite","pattern":"Location: http://block\\.myrepublic\\.co\\.id"}
-{"fingerprint":"c_isp_id_iconnet_redirect_302_satellite","pattern":"Location: https://iconnet\\.id"}
-{"fingerprint":"c_isp_id_bitniaga_redirect_301_3_satellite","pattern":"Location: https://bitniaga\\.net\\.id"}
+{"fingerprint":"c_isp_id_iforte_redirect_301_2_satellite","pattern":"https://trustpositif\\.iforte\\.net\\.id"}
+{"fingerprint":"c_isp_id_myrepublic_redirect_301_3_satellite","pattern":"http://block\\.myrepublic\\.co\\.id"}
+{"fingerprint":"c_isp_id_iconnet_redirect_302_satellite","pattern":"https://iconnet\\.id"}
+{"fingerprint":"c_isp_id_bitniaga_redirect_301_3_satellite","pattern":"https://bitniaga\\.net\\.id"}
 {"fingerprint":"c_isp_id_pandawa_satellite","pattern":"<title>Bloking Konten - PT\\. Dharma Sarana Solusindo</title>"}
 {"fingerprint":"c_isp_id_idola_3_satellite","pattern":"<title>IdOLA Lintasarta</title>"}
-{"fingerprint":"c_isp_id_telkomsel_redirect_301_4_satellite","pattern":"Location: https://internetbaik\\.telkomsel\\.com/block"}
+{"fingerprint":"c_isp_id_telkomsel_redirect_301_4_satellite","pattern":"https://internetbaik\\.telkomsel\\.com/block"}
 {"fingerprint":"c_isp_id_netsafe_redirect_302_satellite","pattern":"<a href=\"http://netsafe\\.indosatooredoo\\.com/desktop"}
 {"fingerprint":"c_isp_id_jakarta_satellite","pattern":"<title>POTAL PEKON</title>"}
 {"fingerprint":"c_isp_id_melsa_satellite","pattern":"window\\.location\\.href = \"https://melsa\\.id\""}
@@ -539,23 +541,23 @@
 {"fingerprint":"c_isp_id_pt_yetoya_29_satellite","pattern":"Internet Sehat \\| PT Yetoya Solusi Indonesia"}
 {"fingerprint":"c_isp_id_31_satellite","pattern":"trustpositif\\.kominfo\\.go\\.id"}
 {"fingerprint":"c_isp_melsa_id_7_satellite","pattern":"www\\.melsa\\.net\\.id/main/blocked"}
-{"fingerprint":"c_isp_is_siminn_redirect_302_copyright_satellite","pattern":"Location: https://www\\.siminn\\.is/sidur/netvarinn-lokud-sida"}
-{"fingerprint":"c_isp_ru_ertelecom_redirect_301_1_satellite","pattern":"Location: http://lawfilter\\.ertelecom\\.ru"}
-{"fingerprint":"c_isp_ru_miralogic_redirect_301_1_satellite","pattern":"Location: http://blacklist\\.miralogic\\.ru"}
-{"fingerprint":"c_isp_ru_achinsk_net_redirect_302_satellite","pattern":"Location: https://blocksite\\.achinsk\\.net"}
-{"fingerprint":"c_isp_ru_kvant_telecom_redirect_302_satellite","pattern":"Location: http://block\\.kvant-telecom\\.ru"}
+{"fingerprint":"c_isp_is_siminn_redirect_302_copyright_satellite","pattern":"https://www\\.siminn\\.is/sidur/netvarinn-lokud-sida"}
+{"fingerprint":"c_isp_ru_ertelecom_redirect_301_1_satellite","pattern":"http://lawfilter\\.ertelecom\\.ru"}
+{"fingerprint":"c_isp_ru_miralogic_redirect_301_1_satellite","pattern":"http://blacklist\\.miralogic\\.ru"}
+{"fingerprint":"c_isp_ru_achinsk_net_redirect_302_satellite","pattern":"https://blocksite\\.achinsk\\.net"}
+{"fingerprint":"c_isp_ru_kvant_telecom_redirect_302_satellite","pattern":"http://block\\.kvant-telecom\\.ru"}
 {"fingerprint":"c_isp_ru_ttk_satellite","pattern":"<title>TTK :: Доступ к ресурсу ограничен</title>"}
-{"fingerprint":"c_isp_ru_ttk_redirect_302_satellite","pattern":"Location: http://fz139\\.ttk\\.ru"}
+{"fingerprint":"c_isp_ru_ttk_redirect_302_satellite","pattern":"http://fz139\\.ttk\\.ru"}
 {"fingerprint":"c_isp_telsy_1_satellite","pattern":"Telsy SecureDNS has blocked a potential threat or maybe the resource you are looking for does not exist\\."}
 {"fingerprint":"c_isp_telsy_2_satellite","pattern":"SecureDNS has blocked a potential threat or maybe the resource you are looking for does not exist"}
-{"fingerprint":"c_isp_ua_maxnet_redirect_satellite","pattern":"Location: https://p\\.maxnet\\.ua"}
-{"fingerprint":"c_isp_us_andrews_uni_satellite","pattern":"If you think this is in error please contact <a id=\"mailto_link\" href=\"mailto:filteradmin@andrews\\.edu\\?subject=DNS question on block"}
+{"fingerprint":"c_isp_ua_maxnet_redirect_satellite","pattern":"https://p\\.maxnet\\.ua"}
+{"fingerprint":"c_isp_us_andrews_uni_satellite","pattern":"filteradmin@andrews\\.edu"}
 {"fingerprint":"c_isp_us_virginia_edu_satellite","pattern":"has been blocked by <a href=\"http://security\\.virginia\\.edu\">University Information Security</a> for hosting phishing, malware, or other malicious behavior\\."}
 
-{"fingerprint":"d_corp_ca_cira_1_satellite","pattern":"Location: https://cira\\.ca:443/CanadianShield/Active/FamilyFilter"}
-{"fingerprint":"d_corp_ca_cira_2_satellite","pattern":"Location: https://cira\\.ca:443/CanadianShield/Active/ScamFilter"}
-{"fingerprint":"d_corp_ca_cira_3_satellite","pattern":"Location: https://www\\.cira\\.ca:443/CanadianShield/Active/PhishingBlock"}
-{"fingerprint":"d_corp_co_mercanet_satellite","pattern":"Location: http://www\\.merca\\.net\\.co/mintic"}
+{"fingerprint":"d_corp_ca_cira_1_satellite","pattern":"https://cira\\.ca:443/CanadianShield/Active/FamilyFilter"}
+{"fingerprint":"d_corp_ca_cira_2_satellite","pattern":"https://cira\\.ca:443/CanadianShield/Active/ScamFilter"}
+{"fingerprint":"d_corp_ca_cira_3_satellite","pattern":"https://www\\.cira\\.ca:443/CanadianShield/Active/PhishingBlock"}
+{"fingerprint":"d_corp_co_mercanet_satellite","pattern":"http://www\\.merca\\.net\\.co/mintic"}
 {"fingerprint":"d_corp_gr_opi_redirect_302_satellite","pattern":" <a href=\"https://opi\\.gr/edppi_block/edppi_block\\.html\""}
 {"fingerprint":"d_corp_hoplite_redirect_satellite","pattern":"<h4>You have been redirected from a malicious site</h4>"}
 {"fingerprint":"d_corp_id_jiipe_satellite","pattern":"<title>Jiipe \\| Internet Positive</title>"}
@@ -564,26 +566,26 @@
 {"fingerprint":"d_corp_multacom_satellite","pattern":"<title>Page Restricted</title>\r"}
 {"fingerprint":"d_corp_ru_skydns_satellite","pattern":" <base href=\"fhttps://cdn-b\\.skydns\\.ru/static/\" target=\"_blank\">"}
 
-{"fingerprint":"e_unk_do_sengkecloud_satellite","pattern":"Location: https://www\\.sengkedcloud\\.com/"}
-{"fingerprint":"e_unk_fr_dnsprotect_node_satellite","pattern":"<title>Access Refusé</title>.*Categorie"}
-{"fingerprint":"e_unk_gr_redirect_302_satellite","pattern":"Location: http://nba\\.gov\\.cy/"}
+{"fingerprint":"e_unk_do_sengkecloud_satellite","pattern":"https://www\\.sengkedcloud\\.com/"}
+{"fingerprint":"e_unk_fr_dnsprotect_node_satellite","pattern":"<title>Access Refusé</title>"}
+{"fingerprint":"e_unk_gr_redirect_302_satellite","pattern":"http://nba\\.gov\\.cy/"}
 {"fingerprint":"e_unk_gr_satellite","pattern":"<meta http-equiv=\"refresh\" content=\"2; url=http://nba\\.gov\\.cy/\" />"}
 {"fingerprint":"e_unk_id_1_satellite","pattern":"<title>PEKON KPB</title>"}
-{"fingerprint":"e_unk_id_2_satellite","pattern":"Location: /blocked"}
+{"fingerprint":"e_unk_id_2_satellite","pattern":"/blocked"}
 {"fingerprint":"e_unk_id_15_satellite","pattern":"<button type=\"submit\">KIRIM EMAIL</button>"}
 {"fingerprint":"e_unk_id_satellite","pattern":"<title>DNS Bersih Baraya</title>"}
 {"fingerprint":"e_unk_np_technitium_satellite","pattern":"<title>Technitium DNS Server</title>"}
 {"fingerprint":"e_unk_pwlan_satellite","pattern":"The website has been blocked at this Public Wi-Fi (PWLAN) location because its content violates the PWLAN content filter rules\\.</span>"}
-{"fingerprint":"e_unk_redirect_localhost_satellite","pattern":"Location: http://127\\.0\\.0\\.1"}
+{"fingerprint":"e_unk_redirect_localhost_satellite","pattern":"http://127\\.0\\.0\\.1"}
 {"fingerprint":"e_unk_ru_451_1_satellite","pattern":"Как очистить кеш браузера вы можете посмотреть в <a class=\"link\" href=\"https://www\\.skydns\\.ru/guide/\">инструкции</a>"}
 {"fingerprint":"e_unk_ru_451_2_satellite","pattern":"Если вы не желаете видеть рекламу - перейдите на <a class=\"%!s(BADINDEX)\" href=\"https://www\\.skydns\\.ru/renew/\">"}
-{"fingerprint":"e_unk_ru_t2_satellite","pattern":"Location: http://t2-blocked\\.com"}
+{"fingerprint":"e_unk_ru_t2_satellite","pattern":"http://t2-blocked\\.com"}
 {"fingerprint":"e_unk_ru_redirect_302_2_satellite","pattern":"<a href=\"http://185\\.217\\.199\\.167/index\\.php\""}
 {"fingerprint":"e_unk_org_id_11_satellite","pattern":"<title>Penjaga Cumi ITB</title>"}
 {"fingerprint":"e_unk_org_tw_1_satellite","pattern":"<title> TANWP不當資訊防護系統 - 您疑似欲連線至不當網站</title>"}
 {"fingerprint":"e_unk_org_tw_2_satellite","pattern":"<title> KPPRC惡意網站防護系統 - 您疑似欲連線至惡意網站</title>"}
 {"fingerprint":"e_unk_org_tw_redirect_302_1_satellite","pattern":" <a href=\"https://twb\\.moe\\.edu\\.tw/deny\\.html\""}
-{"fingerprint":"e_unk_ua_kyivstar_redirecr_302_1_satellite","pattern":"Location: https://cdn\\.kyivstar\\.ua/sites/default/files/lock_sites/index\\.html"}
+{"fingerprint":"e_unk_ua_kyivstar_redirecr_302_1_satellite","pattern":"https://cdn\\.kyivstar\\.ua/sites/default/files/lock_sites/index\\.html"}
 
 {"fingerprint":"f_gen_copyright_notice","pattern":"<title>Copyright Notice</title>"}
 {"fingerprint":"f_gen_451_status_code_satellite","pattern":"451 Unavailable For Legal Reasons"}

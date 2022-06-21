@@ -458,4 +458,5 @@
 {"fingerprint":"satellite_fp_dummy_uk","pattern":"Location: http://dummy\\.co\\.uk"}
 {"fingerprint":"satellite_website_not_active","pattern":"<title>Website not active yet</title>"}
 {"fingerprint":"satellite_facebook_error","pattern":"<title>Facebook \\| Error</title>"}
+{"fingerprint":"satellite_peacefire","pattern":"<a href = \"http://www\\.glaad\\.org/documents/media/AccessDenied1\\.pdf\">Access Denied</a>"}
 {"fingerprint":"satellite_fp_nginx_amazon","pattern":"<title>Test Page for the Nginx HTTP Server on the Amazon Linux AMI</title>"}
