@@ -214,7 +214,6 @@
 {"fingerprint":"p_fp_37","pattern":"The Open Technology Fund supports projects and people that develop open and accessible technologies promoting human rights and open societies, and help advance inclusive and safe access to global communications networks"}
 {"fingerprint":"p_fp_38","pattern":"<!-- BLOQUES OPCIONES -->"}
 {"fingerprint":"r_fp_1","pattern":"<hr><center>nginx</center>"}
-{"fingerprint":"r_fp_3","pattern":"ikhwanonline"}
 {"fingerprint":"r_fp_4","pattern":"Finance News"}
 {"fingerprint":"r_fp_5","pattern":"<title>Yahoo</title>"}
 {"fingerprint":"r_fp_6","pattern":"<meta name=.*twitter:card"}
@@ -280,7 +279,6 @@
 {"fingerprint":"x_coming_soon","pattern":"Coming soon"}
 {"fingerprint":"x_200_ok","pattern":"<h2> 200 OK - 102 - 40344 </h2>"}
 {"fingerprint":"x_400_bad_request","pattern":"<h1>400 Bad Request</h1>"}
-{"fingerprint":"x_redirect_just","pattern":"redirect"}
 {"fingerprint":"x_doc_not_found","pattern":"{\"error\":\"Document not found\"}"}
 {"fingerprint":"x_not_authorized_bt","pattern":"Not Authorized to View This Page \\[CFN #0004\\]"}
 {"fingerprint":"x_bool_false","pattern":"bool\\(false\\)"}
@@ -336,7 +334,6 @@
 {"fingerprint":"x_test","pattern":"<b>En phase de test</b>"}
 {"fingerprint":"x_scientology","pattern":"Scientologypittsburgh"}
 {"fingerprint":"x_breadcrumbs","pattern":"var breadcrumbs"}
-{"fingerprint":"x_photobucket_2","pattern":"photobucket"}
 {"fingerprint":"x_sec59","pattern":"<p><pre>SEC-59</pre>"}
 {"fingerprint":"x_system_error","pattern":"System Error"}
 {"fingerprint":"x_spotify","pattern":"Connect to Spotify"}
@@ -386,7 +383,6 @@
 {"fingerprint":"satellite_fp_default_site","pattern":"<title>Default Site</title>"}
 {"fingerprint":"satellite_fp_direct_ip1","pattern":"<p>You are seeing this page because you have accessed the server directly via it\\'s IP address or used a domain that is not registered on this server (<b>pacy01\\.pacyworld\\.com</b>)\\.</p>"}
 {"fingerprint":"satellite_fp_elec_embers","pattern":"<head><title>Electric Embers-hosted Web site</title></head>"}
-{"fingerprint":"satellite_fp_fireware","pattern":"<title>Fireware XTM User Authentication</title>"}
 {"fingerprint":"satellite_fp_400","pattern":"<!-- @codegen-command : phps GenerateErrorPages -->"}
 {"fingerprint":"satellite_fp_401_unauthorized","pattern":"<title>401 Unauthorized</title>"}
 {"fingerprint":"satellite_fp_403","pattern":"<p>You don\\'t have permission to access"}
@@ -413,6 +409,7 @@
 {"fingerprint":"satellite_fp_no_site_found5","pattern":"content=\"This web address is available for purchase or lease\\. "}
 {"fingerprint":"satellite_fp_no_site_found6","pattern":"<title>Sitio no disponible en este momento\\. Intente m&aacute;s tarde\\.</title>"}
 {"fingerprint":"satellite_fp_no_site_found7","pattern":"Такого домена не существует\\. <br>Может быть, ошибка в адресе? Проверьте еще раз\\."}
+{"fingerprint":"satellite_fp_no_site_found8","pattern":"<title>Site Not Found</title>"}
 {"fingerprint":"satellite_fp_plesk_1","pattern":"<div class=\"page-info-heading\">Web Server's Default Page</div>"}
 {"fingerprint":"satellite_fp_plesk_2","pattern":"<title>Default Parallels Plesk Panel Page</title>"}
 {"fingerprint":"satellite_fp_queernet","pattern":"<TITLE>QueerNet: Home Page</TITLE>"}
@@ -458,4 +455,10 @@
 {"fingerprint":"satellite_fp_vhost_404","pattern":"<title>404 Vhost unknown\\.</title>"}
 {"fingerprint":"satellite_fp_no_such_app","pattern":"<title>No such app</title>"}
 {"fingerprint":"satellite_fp_dummy_uk","pattern":"Location: http://dummy\\.co\\.uk"}
+{"fingerprint":"satellite_fp_website_not_active","pattern":"<title>Website not active yet</title>"}
+{"fingerprint":"satellite_fp_facebook_error","pattern":"<title>Facebook \\| Error</title>"}
+{"fingerprint":"satellite_fp_peacefire","pattern":"<a href = \"http://www\\.glaad\\.org/documents/media/AccessDenied1\\.pdf\">Access Denied</a>"}
+{"fingerprint":"satellite_fp_zeronet","pattern":"<a href=\"http://127\\.0\\.0\\.1:43110"}
+{"fingerprint":"satellite_fp_opennet","pattern":"<em>Access Denied</em>, <em>Access Controlled</em>, and <em>Access Contested</em>"}
+{"fingerprint":"satellite_fp_opendns","pattern":"<title>Cloud Delivered Enterprise Security by OpenDNS</title>"}
 {"fingerprint":"satellite_fp_nginx_amazon","pattern":"<title>Test Page for the Nginx HTTP Server on the Amazon Linux AMI</title>"}
