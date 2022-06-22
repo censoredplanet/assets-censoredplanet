@@ -455,10 +455,10 @@
 {"fingerprint":"satellite_fp_vhost_404","pattern":"<title>404 Vhost unknown\\.</title>"}
 {"fingerprint":"satellite_fp_no_such_app","pattern":"<title>No such app</title>"}
 {"fingerprint":"satellite_fp_dummy_uk","pattern":"Location: http://dummy\\.co\\.uk"}
-{"fingerprint":"satellite_website_not_active","pattern":"<title>Website not active yet</title>"}
-{"fingerprint":"satellite_facebook_error","pattern":"<title>Facebook \\| Error</title>"}
-{"fingerprint":"satellite_peacefire","pattern":"<a href = \"http://www\\.glaad\\.org/documents/media/AccessDenied1\\.pdf\">Access Denied</a>"}
-{"fingerprint":"satellite_zeronet","pattern":"<a href=\"http://127\\.0\\.0\\.1:43110"}
-{"fingerprint":"satellite_opennet","pattern":"<em>Access Denied</em>, <em>Access Controlled</em>, and <em>Access Contested</em>"}
-{"fingerprint":"satellite_opendns","pattern":"<title>Cloud Delivered Enterprise Security by OpenDNS</title>"}
+{"fingerprint":"satellite_fp_website_not_active","pattern":"<title>Website not active yet</title>"}
+{"fingerprint":"satellite_fp_facebook_error","pattern":"<title>Facebook \\| Error</title>"}
+{"fingerprint":"satellite_fp_peacefire","pattern":"<a href = \"http://www\\.glaad\\.org/documents/media/AccessDenied1\\.pdf\">Access Denied</a>"}
+{"fingerprint":"satellite_fp_zeronet","pattern":"<a href=\"http://127\\.0\\.0\\.1:43110"}
+{"fingerprint":"satellite_fp_opennet","pattern":"<em>Access Denied</em>, <em>Access Controlled</em>, and <em>Access Contested</em>"}
+{"fingerprint":"satellite_fp_opendns","pattern":"<title>Cloud Delivered Enterprise Security by OpenDNS</title>"}
 {"fingerprint":"satellite_fp_nginx_amazon","pattern":"<title>Test Page for the Nginx HTTP Server on the Amazon Linux AMI</title>"}
