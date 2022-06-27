@@ -384,8 +384,6 @@
 {"fingerprint":"f_gen_web_filter","pattern":"Web Filter"}
 {"fingerprint":"f_gen_spanish_2","pattern":"Pagina Bloccata"}
 {"fingerprint":"f_gen_olish_2","pattern":"Aplikacija je blokirana"}
-{"fingerprint":"f_gen_category","pattern":"<b>Category:</b>"}
-{"fingerprint":"f_gen_access_denied","pattern":"Access Denied"}
 {"fingerprint":"f_gen_forbidden","pattern":"Request forbidden by administrative rules"}
 {"fingerprint":"f_gen_have_permission","pattern":"have permission to access this resource\\.</p>"}
 {"fingerprint":"f_gen_request_rejected","pattern":"<title>Request Rejected</title>"}
