@@ -80,7 +80,10 @@
 {"fingerprint":"b_nat_columbia_gambling","pattern":"http://www\\.coljuegos\\.gov\\.co/publicaciones/301824"}
 {"fingerprint":"b_nat_columbia_gambling_2","pattern":"www\\.coljuegos\\.gov\\.co/"}
 {"fingerprint":"b_nat_ru","pattern":"http://graph\\.document\\.kremlin\\.ru/page\\.aspx"}
-{"fingerprint":"b_nat_ru_rkn","pattern":"http://blocklist\\.rkn\\.gov\\.ru/"}
+{"fingerprint":"b_nat_ru_rkn","pattern":"blocklist\\.rkn\\.gov\\.ru/"}
+{"fingerprint":"b_nat_ru_rkn2","pattern":"just for RKN util"}
+{"fingerprint":"b_nat_ru_rkn3","pattern":"www\\.east\\.ru/rkn/rzs\\.htm"}
+
 {"fingerprint":"b_nat_th_illegal","pattern":"https://illegal\\.mdes\\.go\\.th"}
 {"fingerprint":"b_nat_no_fd","pattern":"<title>Forsvarsdepartementets retningslinjer - Svartelistet applikasjon</title>"}
 
@@ -100,6 +103,7 @@
 {"fingerprint":"c_isp_cn_runxun","pattern":"http://www\\.runxun\\.com/weibeian\\.html"}
 {"fingerprint":"c_isp_re_rosintel","pattern":"http://block\\.rosintel\\.tk/\\?"}
 {"fingerprint":"c_isp_id_hypernet","pattern":"http://sehat\\.hypernet\\.co\\.id"}
+{"fingerprint":"c_isp_id_sandya","pattern":"<title>TrustPositif Sandya Networks</title>"}
 {"fingerprint":"c_isp_dk_tdc","pattern":"mailto:filter-stopside@tdc\\.dk"}
 {"fingerprint":"c_isp_kw_kems","pattern":"http://blocked\\.kems\\.net"}
 {"fingerprint":"c_isp_pk_wateen","pattern":"http://restrict\\.wateen\\.net/"}
@@ -112,6 +116,7 @@
 {"fingerprint":"c_isp_ru_mediakvant","pattern":"http://mediakvant\\.ru/block"}
 {"fingerprint":"c_isp_ru_ita","pattern":" https://rta-telecom\\.ru/deny\\.html"}
 {"fingerprint":"c_isp_ru_arbuz","pattern":"http://www\\.arbuz\\.ru/zapret\\.htm"}
+{"fingerprint":"c_isp_ru_flytelecom","pattern":"blackhole\\.fly-telecom\\.ru"}
 {"fingerprint":"c_isp_ru_omkc","pattern":"http://217\\.25\\.208\\.13"}
 {"fingerprint":"c_isp_ru_at_home","pattern":"http://zapret-info\\.b2b\\.at-home\\.ru"}
 {"fingerprint":"c_isp_ru_enicom","pattern":"http://alert\\.enicom\\.ru:81/"}
@@ -294,7 +299,6 @@
 {"fingerprint":"e_unk_blk_6","pattern":"http://213\\.14\\.227\\.50/landpage\\?ms=http://ok\\.ru/"}
 {"fingerprint":"e_unk_blk_8","pattern":"您正在访问恶意网页"}
 {"fingerprint":"e_unk_blk_9","pattern":"http://114\\.113\\.224\\.20:8123/feifa/code\\.htm"}
-{"fingerprint":"e_unk_blk_10","pattern":"/css/block\\.css"}
 {"fingerprint":"e_unk_blk_11","pattern":"禁止访问"}
 {"fingerprint":"e_unk_ip_url_block","pattern":"urlblock\\.php\\?args="}
 {"fingerprint":"e_unk_cn_not_filed_1","pattern":"您好，该域名未备案，已被封停，请联系机房核实！！！！"}
@@ -447,6 +451,7 @@
 {"fingerprint":"a_prod_blue_shield_satellite","pattern":"<title>Blocked by BLUE SHIELD v3</title>"}
 {"fingerprint":"a_prod_cloudveil_satellite","pattern":"manage\\.cloudveil\\.org/unblock_request/new_request"}
 {"fingerprint":"a_prod_comodo_satellite","pattern":"<title>Comodo Secure Internet Gateway</title>"}
+{"fingerprint":"a_prod_fr_dnsprotect_node_satellite","pattern":"<title>Access Refusé</title>"}
 {"fingerprint":"a_prod_guardiandns_satellite","pattern":"Guardian DNS"}
 {"fingerprint":"a_prod_infoblox_satellite","pattern":"<p>Access to this domain name was blocked because the site was identified as malicious or the site was explicitly blocked by your corporate security policy"}
 {"fingerprint":"a_prod_keweon_satellite","pattern":"keweon.*mode=block"}
@@ -461,6 +466,7 @@
 {"fingerprint":"a_prod_jusprogdns_satellite","pattern":"login\\.jusprogdns\\.com/block"}
 {"fingerprint":"a_prod_safedns_satellite","pattern":"https://blockpage-cdn\\.safedns\\.com"}
 {"fingerprint":"a_prod_securly_satellite", "pattern":"https://www\\.securly\\.com/broker"}
+{"fingerprint":"a_prod_do_sengkecloud_satellite","pattern":"https://www\\.sengkedcloud\\.com/"}
 {"fingerprint":"a_prod_swisscom_satellite","pattern":"PWLAN Content Filter"}
 {"fingerprint":"a_prod_tehtris_satellite","pattern":"<title>TEHTRIS DNS Firewall</title>"}
 {"fingerprint":"a_prod_zyxel_satellite","pattern":"<title>Zyxel Security Cloud-DNS Filter Service Portal</title>"}
@@ -468,11 +474,14 @@
 {"fingerprint":"b_nat_au_1_satellite","pattern":"<p>You have attempted to obtain access to a particular website\\.  This page notifies you that access to that website has been disabled because the Federal Court of Australia has determined that the website infringes, or facilitates the infringement of, copyright\\.</p>"}
 {"fingerprint":"b_nat_au_2_satellite","pattern":"disabled because the Federal Court of Australia has determined that the website infringes, or facilitates the infringement of, copyright"}
 {"fingerprint":"b_nat_au_3_satellite","pattern":"<h1>ACCESS TO THIS WEBSITE HAS BEEN DISABLED BECAUSE THE FEDERAL COURT OF AUSTRALIA HAS DETERMINED THAT IT INFRINGES OR FACILITATES THE INFRINGEMENT OF COPYRIGHT.</h1>"}
+{"fingerprint":"b_nat_bd_satellite","pattern":"<h1>This webpage has been blocked</h1>"}
+{"fingerprint":"b_nat_be_1_satellite","pattern":"<title>StopPage</title>"}
 {"fingerprint":"b_nat_be_2_satellite","pattern":"U wordt naar deze stoppagina doorverwezen omdat de goksite die u tracht te bezoeken inhoud aanbiedt die illegaal is op basis van de Belgische wetgeving\\. "}
 {"fingerprint":"b_nat_be_3_satellite","pattern":"ENG - This gambling site is illegal in Belgium\\. It has therefore been blocked\\. Illegal gambling is dangerous and can even be punishable\\."}
 {"fingerprint":"b_nat_be_4_satellite","pattern":"visit offers content that is considered illegal according"}
 {"fingerprint":"b_nat_be_redirect_302_satellite","pattern":"https://www\\.gamingcommission\\.gov\\.gr/index\\.php/forbidden-access-black-list"}
 {"fingerprint":"b_nat_be_redirect_satellite","pattern":"http://webstop\\.gamingcommission\\.be"}
+{"fingerprint":"b_nat_bg_1_satellite","pattern":"<title>Витрина</title>"}
 {"fingerprint":"b_nat_bg_2_satellite","pattern":"<FONT COLOR=\"#AA4444\">Съгласно Закон за Хазарта и разпореждания на Софийски Районен Съд,</FONT>"}
 {"fingerprint":"b_nat_cn_antispam_satellite","pattern":"<div class=\"title\">国家反诈中心</div>"}
 {"fingerprint":"b_nat_co_1_satellite","pattern":"www\\.coljuegos\\.gov\\.co/publicaciones/advertencia_pampatildeampiexclginas_online_ilegales_pub"}
@@ -481,10 +490,30 @@
 {"fingerprint":"b_nat_ee_redirecr_301_1_satellite","pattern":"http://www\\.emta\\.ee/et/juurdepaas-blokeeritud/"}
 {"fingerprint":"b_nat_ee_redirecr_302_1_satellite","pattern":"http://redir\\.emta\\.ee/redirect/et/juurdepaas-blokeeritud"}
 {"fingerprint":"b_nat_gr_1_satellite","pattern":"Αναζήτηση Επιτροπή Εποπτείας και Ελέγχου Παιγνίων"}
+{"fingerprint":"b_nat_gr_redirect_302_satellite","pattern":"http://nba\\.gov\\.cy/"}
+{"fingerprint":"b_nat_gr_satellite","pattern":"<meta http-equiv=\"refresh\" content=\"2; url=http://nba\\.gov\\.cy/\" />"}
 {"fingerprint":"b_nat_id_1_satellite","pattern":"<small>The website/domain has been blocked as per order of Ministry of Electronics and Information Technology under IT Act, 2000</small>"}
 {"fingerprint":"b_nat_id_27_satellite","pattern":"Situs yang dituju terindikasi mengandung konten yang tidak diperkenankan pemerintah"}
 {"fingerprint":"b_nat_id_23_satellite","pattern":"URL=http://sehat\\.hypernet\\.co\\.id\""}
 {"fingerprint":"b_nat_id_8_satellite","pattern":"Internet Sehat dan Aman"}
+{"fingerprint":"b_nat_id_1_satellite","pattern":"Internet positif"}
+{"fingerprint":"b_nat_id_10_satellite","pattern":"situs tidak dapat diakses melalui jaringan ini  "}
+{"fingerprint":"b_nat_id_12_satellite","pattern":"mungkin mengandung unsur ilegal, pornografi, perjudian, kekerasan atau narkoba\\.</p>"}
+{"fingerprint":"b_nat_id_16_satellite","pattern":"Situs Terlarang"}
+{"fingerprint":"b_nat_id_17_satellite","pattern":"<title>Internet Protect</title>"}
+{"fingerprint":"b_nat_id_18_satellite","pattern":"<title>Blocked Content</title>"}
+{"fingerprint":"b_nat_id_2_satellite","pattern":"<title>Internet Positif - Positifkan diri kamu</title>"}
+{"fingerprint":"b_nat_id_1_satellite","pattern":"<title>ACCESS DENIED</title>"}
+{"fingerprint":"b_nat_id_20_satellite","pattern":"<title>Maaf, Situs ini tidak bisa di akses</title>"}
+{"fingerprint":"b_nat_id_21_satellite","pattern":"<h2>Website ini memiliki larangan akses</h2>"}
+{"fingerprint":"b_nat_id_22_satellite","pattern":"var pname='internet-sehat';"}
+{"fingerprint":"b_nat_id_24_satellite","pattern":"Mohon maaf untuk saat ini akses internet anda sedang terblokir<br>"}
+{"fingerprint":"b_nat_id_25_satellite","pattern":"Laman yang anda tuju sudah diblokir"}
+{"fingerprint":"b_nat_id_26_satellite","pattern":"<h1>Access to this site is restricted\\.</h1>"}
+{"fingerprint":"b_nat_id_30_satellite","pattern":"Situs  yang ada hendak buka kemungkinan termasuk dalam situs yang tidak boleh diakses  melalui jaringan ini karena terindikasi mengandung salah satu unsur"}
+{"fingerprint":"b_nat_id_4_satellite","pattern":"pname=\\'internet-sehat\\';"}
+{"fingerprint":"b_nat_id_6_satellite","pattern":"<title>Internet Sehat</title>"}
+{"fingerprint":"b_nat_ir_1_satellite","pattern":"<title>محتوى محظور</title>"}
 {"fingerprint":"b_nat_id_9_satellite","pattern":"PERNYATAAN KEPUTUSAN PARA PEMEGANG SAHAM"}
 {"fingerprint":"b_nat_it_10_satellite","pattern":"sensi del regolamento in materia di tutela del diritto"}
 {"fingerprint":"b_nat_it_1_satellite","pattern":"<p>L&rsquo;accesso  al presente sito &egrave; stato disabilitato in esecuzione di un provvedimento  adottato dall&rsquo;Autorit&agrave; per le garanzie nelle comunicazioni, ai sensi del  regolamento in materia di tutela del diritto d&rsquo;autore online approvato con  delibera n\\. 680/13/CONS\\.</p>"}
@@ -501,6 +530,24 @@
 {"fingerprint":"b_nat_np_4_satellite","pattern":"Nepal Telecommunications Authority"}
 {"fingerprint":"b_nat_ph_1_satellite","pattern":"In compliance of NTC Memorandum Circular #01-01-2014, guideline for internet service providers in the implementation of Republic Act 9775 (Anti-Child Pornography act of 2009)"}
 {"fingerprint":"b_nat_pl_redirect_302_satellite","pattern":"https://www\\.finanse\\.mf\\.gov\\.pl/inne-podatki/podatek-od-gier-gry-hazardowe/komunikat"}
+{"fingerprint":"b_nat_ro_1_satellite","pattern":"Accesul dumneavoastră către acest site a fost restricționat de Oficiul Național pentru Jocuri de Noroc\\.</p>"}
+{"fingerprint":"b_nat_ro_2_satellite","pattern":"Accesul dumneavoastr.* acest site a fost restric"}
+{"fingerprint":"b_nat_ru_1_satellite","pattern":"<title>Accesul interzis - Ресурс заблокирован</title>"}
+{"fingerprint":"b_nat_ru_10_satellite","pattern":"Доступ к запрашиваемому вами ресурсу ограничен!"}
+{"fingerprint":"b_nat_ru_11_satellite","pattern":"Запрашиваемый ресурс заблокирован"}
+{"fingerprint":"b_nat_ru_13_satellite","pattern":"<title>Доступ закрыт</title>"}
+{"fingerprint":"b_nat_ru_14_satellite","pattern":"<h1>Доступ запрещён\\.</h1>"}
+{"fingerprint":"b_nat_ru_15_satellite","pattern":"<title>Site is blocked</title>"}
+{"fingerprint":"b_nat_ru_16_satellite","pattern":"<title>Страница заблокирована</title>"}
+{"fingerprint":"b_nat_ru_17_satellite","pattern":"Доступ да запытанага вамі Інтэрнэт-рэсурса заблакаваны дадатковай паслугай вэб-фільтрацыі"}
+{"fingerprint":"b_nat_ru_19_satellite","pattern":"ДАННЫЙ РЕСУРС ЗАБЛОКИРОВАН"}
+{"fingerprint":"b_nat_ru_20_satellite","pattern":"Об информации, информационных технологиях и о защите информации"}
+{"fingerprint":"b_nat_ru_3_satellite","pattern":"<h1>Доступ запрещён</h1>"}
+{"fingerprint":"b_nat_ru_4_satellite","pattern":"Търсената от Вас страница е с неразрешено съдържание и достъпът"}
+{"fingerprint":"b_nat_ru_6_satellite","pattern":"Паважаны абанент!</h4>"}
+{"fingerprint":"b_nat_ru_7_satellite","pattern":"Доступ к ресурсу ограничен"}
+{"fingerprint":"b_nat_ru_8_satellite","pattern":"Ресурста ақпараттық қауіпсіздікке төнетін қауіп-қатер бар"}
+{"fingerprint":"b_nat_ru_9_satellite","pattern":"<title>Ресурс заблокирован</title>"}
 {"fingerprint":"b_nat_ru_12_satellite","pattern":"eais\\.rkn\\.gov\\.ru/\">"}
 {"fingerprint":"b_nat_ru_451_satellite","pattern":"blocklist\\.rkn\\.gov\\.ru"}
 {"fingerprint":"b_nat_ru_satellite_1","pattern":"<a href=\"http://blocklist\\.rkn\\.gov\\.ru/\""}
@@ -563,34 +610,28 @@
 {"fingerprint":"d_corp_microsoft_2_satellite","pattern":"<h4>Please use our domain review process if you feel this site is legitimate or should be in another category\\.</h4>"}
 {"fingerprint":"d_corp_multacom_satellite","pattern":"<title>Page Restricted</title>\r"}
 {"fingerprint":"d_corp_ru_skydns_satellite","pattern":" <base href=\"fhttps://cdn-b\\.skydns\\.ru/static/\" target=\"_blank\">"}
+{"fingerprint":"d_corp_tw_1_satellite","pattern":"<title> TANWP不當資訊防護系統 - 您疑似欲連線至不當網站</title>"}
+{"fingerprint":"d_corp_tw_2_satellite","pattern":"<title> KPPRC惡意網站防護系統 - 您疑似欲連線至惡意網站</title>"}
+{"fingerprint":"d_corp_tw_redirect_302_1_satellite","pattern":" <a href=\"https://twb\\.moe\\.edu\\.tw/deny\\.html\""}
 
-{"fingerprint":"e_unk_do_sengkecloud_satellite","pattern":"https://www\\.sengkedcloud\\.com/"}
-{"fingerprint":"e_unk_fr_dnsprotect_node_satellite","pattern":"<title>Access Refusé</title>"}
-{"fingerprint":"e_unk_gr_redirect_302_satellite","pattern":"http://nba\\.gov\\.cy/"}
-{"fingerprint":"e_unk_gr_satellite","pattern":"<meta http-equiv=\"refresh\" content=\"2; url=http://nba\\.gov\\.cy/\" />"}
+{"fingerprint":"e_unk_fr_satellite","pattern":"Bonjour, Ce site Web n.*est pas accessible en raison des risques.* son contenu"}
 {"fingerprint":"e_unk_id_1_satellite","pattern":"<title>PEKON KPB</title>"}
 {"fingerprint":"e_unk_id_2_satellite","pattern":"/blocked"}
 {"fingerprint":"e_unk_id_15_satellite","pattern":"<button type=\"submit\">KIRIM EMAIL</button>"}
 {"fingerprint":"e_unk_id_satellite","pattern":"<title>DNS Bersih Baraya</title>"}
 {"fingerprint":"e_unk_np_technitium_satellite","pattern":"<title>Technitium DNS Server</title>"}
 {"fingerprint":"e_unk_pwlan_satellite","pattern":"The website has been blocked at this Public Wi-Fi (PWLAN) location because its content violates the PWLAN content filter rules\\.</span>"}
-{"fingerprint":"e_unk_redirect_localhost_satellite","pattern":"http://127\\.0\\.0\\.1"}
 {"fingerprint":"e_unk_ru_451_1_satellite","pattern":"Как очистить кеш браузера вы можете посмотреть в <a class=\"link\" href=\"https://www\\.skydns\\.ru/guide/\">инструкции</a>"}
 {"fingerprint":"e_unk_ru_451_2_satellite","pattern":"Если вы не желаете видеть рекламу - перейдите на <a class=\"%!s(BADINDEX)\" href=\"https://www\\.skydns\\.ru/renew/\">"}
 {"fingerprint":"e_unk_ru_t2_satellite","pattern":"http://t2-blocked\\.com"}
 {"fingerprint":"e_unk_ru_redirect_302_2_satellite","pattern":"<a href=\"http://185\\.217\\.199\\.167/index\\.php\""}
 {"fingerprint":"e_unk_org_id_11_satellite","pattern":"<title>Penjaga Cumi ITB</title>"}
-{"fingerprint":"e_unk_org_tw_1_satellite","pattern":"<title> TANWP不當資訊防護系統 - 您疑似欲連線至不當網站</title>"}
-{"fingerprint":"e_unk_org_tw_2_satellite","pattern":"<title> KPPRC惡意網站防護系統 - 您疑似欲連線至惡意網站</title>"}
-{"fingerprint":"e_unk_org_tw_redirect_302_1_satellite","pattern":" <a href=\"https://twb\\.moe\\.edu\\.tw/deny\\.html\""}
 {"fingerprint":"e_unk_ua_kyivstar_redirecr_302_1_satellite","pattern":"https://cdn\\.kyivstar\\.ua/sites/default/files/lock_sites/index\\.html"}
 
 {"fingerprint":"f_gen_copyright_notice","pattern":"<title>Copyright Notice</title>"}
 {"fingerprint":"f_gen_451_status_code_satellite","pattern":"451 Unavailable For Legal Reasons"}
 {"fingerprint":"f_gen_access_denied_satellite","pattern":"<title>Access denied</title>"}
-{"fingerprint":"f_gen_bd_satellite","pattern":"<h1>This webpage has been blocked</h1>"}
-{"fingerprint":"f_gen_be_1_satellite","pattern":"<title>StopPage</title>"}
-{"fingerprint":"f_gen_bg_1_satellite","pattern":"<title>Витрина</title>"}
+{"fingerprint":"f_gen_access_denied2_satellite","pattern":"<title>Access Refus.*</title>"}
 {"fingerprint":"f_gen_block_exclamation_satellite","pattern":"<title>Block !</title>"}
 {"fingerprint":"f_gen_blocked_1_satellite","pattern":"<TITLE>BLOCKED</TITLE>"}
 {"fingerprint":"f_gen_blocked_2_satellite","pattern":"<title>blocked</title>"}
@@ -600,24 +641,7 @@
 {"fingerprint":"f_gen_cr_1_satellite","pattern":"Existen atacantes que han creado este sitio de manera fraudulenta para poder robar tu información personal o confidencial"}
 {"fingerprint":"f_gen_dk_1_satellite","pattern":"<h2 class=\"h3 the_title\">Du var på vej ind på en ulovlig hjemmeside</h2>"}
 {"fingerprint":"f_gen_forbiden_site_satellite","pattern":"<title>Forbidden website</title>"}
-{"fingerprint":"f_gen_id_1_satellite","pattern":"Internet positif"}
-{"fingerprint":"f_gen_id_10_satellite","pattern":"situs tidak dapat diakses melalui jaringan ini  "}
-{"fingerprint":"b_nat_id_12_satellite","pattern":"mungkin mengandung unsur ilegal, pornografi, perjudian, kekerasan atau narkoba\\.</p>"}
-{"fingerprint":"f_gen_id_16_satellite","pattern":"Situs Terlarang"}
-{"fingerprint":"f_gen_id_17_satellite","pattern":"<title>Internet Protect</title>"}
-{"fingerprint":"f_gen_id_18_satellite","pattern":"<title>Blocked Content</title>"}
-{"fingerprint":"f_gen_id_2_satellite","pattern":"<title>Internet Positif - Positifkan diri kamu</title>"}
-{"fingerprint":"f_gen_id_1_satellite","pattern":"<title>ACCESS DENIED</title>"}
-{"fingerprint":"f_gen_id_20_satellite","pattern":"<title>Maaf, Situs ini tidak bisa di akses</title>"}
-{"fingerprint":"f_gen_id_21_satellite","pattern":"<h2>Website ini memiliki larangan akses</h2>"}
-{"fingerprint":"f_gen_id_22_satellite","pattern":"var pname='internet-sehat';"}
-{"fingerprint":"f_gen_id_24_satellite","pattern":"Mohon maaf untuk saat ini akses internet anda sedang terblokir<br>"}
-{"fingerprint":"f_gen_id_25_satellite","pattern":"Laman yang anda tuju sudah diblokir"}
-{"fingerprint":"f_gen_id_26_satellite","pattern":"<h1>Access to this site is restricted\\.</h1>"}
-{"fingerprint":"f_gen_id_30_satellite","pattern":"Situs  yang ada hendak buka kemungkinan termasuk dalam situs yang tidak boleh diakses  melalui jaringan ini karena terindikasi mengandung salah satu unsur"}
-{"fingerprint":"f_gen_id_4_satellite","pattern":"pname=\\'internet-sehat\\';"}
-{"fingerprint":"f_gen_id_6_satellite","pattern":"<title>Internet Sehat</title>"}
-{"fingerprint":"f_gen_ir_1_satellite","pattern":"<title>محتوى محظور</title>"}
+{"fingerprint":"f_gen_internet_filtering_satellite","pattern":"An access to requested resource was blocked due to additional Internet filtering service enabled"}
 {"fingerprint":"f_gen_it_2_satellite","pattern":"<H1>AVVERTENZA - SITO NON RAGGIUNGIBILE</H1>"}
 {"fingerprint":"f_gen_it_3_satellite","pattern":"<title>Guardia di Finanza</title>"}
 {"fingerprint":"f_gen_it_4_satellite","pattern":"<title>SITO WEB SOTTOPOSTO A SEQUESTRO</title>"}
@@ -628,23 +652,6 @@
 {"fingerprint":"f_gen_malicious_website_satellite","pattern":"<title>Malicious Website blocked</title>"}
 {"fingerprint":"f_gen_np_1_satellite","pattern":"<title>Block-Content</title>"}
 {"fingerprint":"f_gen_resource_blocked_satellite","pattern":"<title>Resource is blocked</title>"}
-{"fingerprint":"f_gen_ro_1_satellite","pattern":"Accesul dumneavoastră către acest site a fost restricționat de Oficiul Național pentru Jocuri de Noroc\\.</p>"}
-{"fingerprint":"f_gen_ru_1_satellite","pattern":"<title>Accesul interzis - Ресурс заблокирован</title>"}
-{"fingerprint":"f_gen_ru_10_satellite","pattern":"Доступ к запрашиваемому вами ресурсу ограничен!"}
-{"fingerprint":"f_gen_ru_11_satellite","pattern":"Запрашиваемый ресурс заблокирован"}
-{"fingerprint":"f_gen_ru_13_satellite","pattern":"<title>Доступ закрыт</title>"}
-{"fingerprint":"f_gen_ru_14_satellite","pattern":"<h1>Доступ запрещён\\.</h1>"}
-{"fingerprint":"f_gen_ru_15_satellite","pattern":"<title>Site is blocked</title>"}
-{"fingerprint":"f_gen_ru_16_satellite","pattern":"<title>Страница заблокирована</title>"}
-{"fingerprint":"f_gen_ru_17_satellite","pattern":"Доступ да запытанага вамі Інтэрнэт-рэсурса заблакаваны дадатковай паслугай вэб-фільтрацыі"}
-{"fingerprint":"f_gen_ru_19_satellite","pattern":"ДАННЫЙ РЕСУРС ЗАБЛОКИРОВАН"}
-{"fingerprint":"f_gen_ru_20_satellite","pattern":"Об информации, информационных технологиях и о защите информации"}
-{"fingerprint":"f_gen_ru_3_satellite","pattern":"<h1>Доступ запрещён</h1>"}
-{"fingerprint":"f_gen_ru_4_satellite","pattern":"Търсената от Вас страница е с неразрешено съдържание и достъпът"}
-{"fingerprint":"f_gen_ru_6_satellite","pattern":"Паважаны абанент!</h4>"}
-{"fingerprint":"f_gen_ru_7_satellite","pattern":"Доступ к ресурсу ограничен"}
-{"fingerprint":"f_gen_ru_8_satellite","pattern":"Ресурста ақпараттық қауіпсіздікке төнетін қауіп-қатер бар"}
-{"fingerprint":"f_gen_ru_9_satellite","pattern":"<title>Ресурс заблокирован</title>"}
 {"fingerprint":"f_gen_site_blacklisted_satellite","pattern":"<head><title>This domain has been blacklisted</title></head>"}
 {"fingerprint":"f_gen_site_blocked_satellite","pattern":"<title>Site Blocked</title>"}
 {"fingerprint":"f_gen_th_1_satellite","pattern":"बन्देज लगाएको सामग्रीहरु"}

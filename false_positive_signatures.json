@@ -348,21 +348,15 @@
 {"fingerprint":"x_JOT","pattern":"window\\.JOT"}
 {"fingerprint":"x_spamtitan","pattern":"<title>SpamTitan</title>"}
 {"fingerprint":"x_provided_not_valid","pattern":"The provided host name is not valid for this server\\."}
-{"fingerprint":"x_document_moved","pattern":"<head><title>Document Moved</title></head>"}
-{"fingerprint":"x_moved_here","pattern":"<p>The document has moved <a href=.*here</a>\\.</p>"}
 {"fingerprint":"x_azurecdn","pattern":"https://df\\.onecloud\\.azure-test\\.net/Error/UE_404"}
-{"fingerprint":"x_scientology","pattern":"<a href=\"https://www\\.scientology\\.org/\">Moved Permanently</a>"}
 {"fingerprint":"x_virtual_host","pattern":"Virtual host not configured"}
-{"fingerprint":"x_greenpeace","pattern":"<html><body>Page moved permanently to (http|https)://www\\.greenpeace\\.org/usa/\\.</body></html>"}
 {"fingerprint":"x_akamai_errorpage","pattern":"<!-- AKAMAI ERROR PAGE -->"}
 {"fingerprint":"x_azurewebapp","pattern":"<title>Microsoft Azure Web App - Error 404</title>"}
-{"fingerprint":"x_yahooredirect","pattern":"<html><body><h1>Moved</h1><p>Please click here <a href=\"https://us\\.yahoo\\.com\">us\\.yahoo\\.com</a>\\.</p></body></html>"}
 {"fingerprint":"x_unknown_ipaddress","pattern":"http://124.40.225.20/"}
 {"fingerprint":"x_dropbox","pattern":"<h1>Error</h1>Something went wrong\\. Don.t worry, your files are still safe and the Dropboxers have been notified\\."} 
 {"fingerprint":"x_tengine","pattern":"<p>The requested resource resides temporarily under a different URI\\.</p>"} 
 {"fingerprint":"x_sstatic","pattern":"<title>about sstatic\\.net</title>"} 
 {"fingerprint":"x_s3amazonaws","pattern":"s3\\.amazonaws\\.com/doc"}
-{"fingerprint":"x_apple","pattern":"Description: The document you requested has moved to a new location\\.  The new location is \"https://www\\.apple\\.com/\"\\."}
 {"fingerprint":"x_403","pattern":"This error message is generated when the web server is trying to access a file that does not exist or has been configured incorrectly"}
 {"fingerprint":"x_display_error","pattern":"<h3>Error! Page cannot be displayed. Please contact service provider for more details.</h3>"}
 {"fingerprint":"x_file_not_found","pattern":"<title>404 - File or directory not found.</title>"}
