@@ -450,10 +450,12 @@
 {"fingerprint":"a_prod_adguard_satellite","pattern":"blocking-pages - Blocking pages for AdGuard projects"}
 {"fingerprint":"a_prod_blue_shield_satellite","pattern":"<title>Blocked by BLUE SHIELD v3</title>"}
 {"fingerprint":"a_prod_cloudveil_satellite","pattern":"manage\\.cloudveil\\.org/unblock_request/new_request"}
+{"fingerprint":"a_prod_dnsprotect_satellite","pattern":"<img class=\"reject-logo\""}
 {"fingerprint":"a_prod_comodo_satellite","pattern":"<title>Comodo Secure Internet Gateway</title>"}
 {"fingerprint":"a_prod_fr_dnsprotect_node_satellite","pattern":"<title>Access Refusé</title>"}
 {"fingerprint":"a_prod_guardiandns_satellite","pattern":"Guardian DNS"}
-{"fingerprint":"a_prod_infoblox_satellite","pattern":"<p>Access to this domain name was blocked because the site was identified as malicious or the site was explicitly blocked by your corporate security policy"}
+{"fingerprint":"a_prod_infoblox1_satellite","pattern":"redirect.*infoblox\\.com"}
+{"fingerprint":"a_prod_infoblox2_satellite","pattern":"<p>Access to this domain name was blocked because the site was identified as malicious or the site was explicitly blocked by your corporate security policy"}
 {"fingerprint":"a_prod_keweon_satellite","pattern":"keweon.*mode=block"}
 {"fingerprint":"a_prod_netalerts_satellite","pattern":"<script type=\"text/javascript\" src=\"https://blocked\\.netalerts\\.io/index\\.js\"></script>"}
 {"fingerprint":"a_prod_nextdns_satellite","pattern":"Blocked-By.*NextDNS"}
@@ -581,6 +583,7 @@
 {"fingerprint":"c_isp_id_megadata_satellite","pattern":"<title>Megadata situs terlarang</title>"}
 {"fingerprint":"c_isp_id_pt_wortel_13_satellite","pattern":"<title>PT Wortel Internet Positif</title>"}
 {"fingerprint":"c_isp_id_biznetnetworks_28_satellite","pattern":"www\\.biznetnetworks\\.com/safesurf/"}
+{"fingerprint":"c_isp_id_narcotics_satellite","pattern":"narcotics\\.id\\.shield\\.redns\\.com"}
 {"fingerprint":"c_isp_id_sukma_media_14_satellite","pattern":"<title>Sukma Media Internet Positif</title>"}
 {"fingerprint":"c_isp_id_skynet_satellite","pattern":"<title>SkyNet \\| Internet Sehat</title>"}
 {"fingerprint":"c_isp_id_pt_yetoya_29_satellite","pattern":"Internet Sehat \\| PT Yetoya Solusi Indonesia"}
